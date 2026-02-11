@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Canteen.Domain/Canteen.Domain.csproj" />
+  <Project Path="Canteen.Repository/Canteen.Repository.csproj" />
+  <Project Path="Canteen.Services/Canteen.Services.csproj" />
+  <Project Path="CanteenExamenTest/CanteenExamenTest.csproj" />
+</Solution>

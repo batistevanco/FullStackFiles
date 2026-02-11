@@ -1,0 +1,41 @@
+﻿@using VacationTUI.Domain.Entitites
+
+<header>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom shadow-sm mb-3">
+        <div class="container-fluid">
+            <a class="navbar-brand text-dark" asp-controller="Hotel" asp-action="Index">VacationTUI</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav flex-grow-1">
+
+                    <!-- Alle locaties (type = null) -->
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="Hotel" asp-action="Index">Alle locations</a>
+                    </li>
+
+                    <!-- Kust -->
+                    <li class="nav-item">
+                        <a class="nav-link text-dark"
+                           asp-controller="Hotel"
+                           asp-action="Index"
+                           asp-route-type="@CountryType.Coast">Coast</a>
+                    </li>
+
+                    <!-- Wallonië -->
+                    <li class="nav-item">
+                        <a class="nav-link text-dark"
+                           asp-controller="Hotel"
+                           asp-action="Index"
+                           asp-route-type="@CountryType.Wallonia">Wallonia</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\full Stack Development - oefeningen\\PartialView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\personsorting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\personsorting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\controllers\\personsortingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\personsortingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\controllers\\personautomappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\personautomappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.domein\\datadb\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\datadb\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\controllers\\persondbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\persondbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\personautomapper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\personautomapper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.services\\persondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\persondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.repositories\\persondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\persondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.repositories\\interfaces\\ipersondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\interfaces\\ipersondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.services\\interfaces\\ipersondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\interfaces\\ipersondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\persondb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\persondb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\viewmodels\\adultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\viewmodels\\adultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.domein\\entitiesdb\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\entitiesdb\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.repositories\\interfaces\\ipersondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\interfaces\\ipersondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.domein\\partialview.domein.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\partialview.domein.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.repositories\\persondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\persondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\DataDB\\StudentDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartialView\\DataDB\\StudentDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.domein\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|c:\\full stack development - oefeningen\\partialview\\partialview.domein\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\shared\\displaytemplates\\_tileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\displaytemplates\\_tileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._sql22_vives/StudentDB26/True/SqlTable/dbo.Adult.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|c:\\full stack development - oefeningen\\partialview\\partialview\\viewmodels\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\viewmodels\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T08:15:14.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonSortingController.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonSortingController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonSortingController.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonSortingController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonSortingController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:59:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:40:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonAutoMapperController.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:40:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonDbController.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonDbController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonDbController.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonDbController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonDbController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:20:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "RelativeToolTip": "PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIAwwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:07:31.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T10:50:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:45:34.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Program.cs",
+              "RelativeDocumentMoniker": "PartialView\\Program.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Program.cs",
+              "RelativeToolTip": "PartialView\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:09:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonDbService.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\PersonDbService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\PersonDbService.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\PersonDbService.cs",
+              "RelativeToolTip": "PartialView.Services\\PersonDbService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:40:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:12:25.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonDBDAO.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\PersonDBDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\PersonDBDAO.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\PersonDBDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\PersonDBDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:29:06.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPersonDbService.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "RelativeToolTip": "PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:39:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPersonDBDAO.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:26:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\Interfaces\\IPersonService.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "PartialView.Services\\Interfaces\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:41:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonDb\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\PersonDb\\Index.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\PersonDb\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\PersonDb\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T10:22:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdultVM.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\ViewModels\\AdultVM.cs",
+              "RelativeDocumentMoniker": "PartialView\\ViewModels\\AdultVM.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\ViewModels\\AdultVM.cs",
+              "RelativeToolTip": "PartialView\\ViewModels\\AdultVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:13:43.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Adult.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\EntitiesDB\\Adult.cs",
+              "RelativeDocumentMoniker": "PartialView.Domein\\EntitiesDB\\Adult.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\EntitiesDB\\Adult.cs",
+              "RelativeToolTip": "PartialView.Domein\\EntitiesDB\\Adult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:13:55.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPersonDAO.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\Interfaces\\IPersonDAO.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\Interfaces\\IPersonDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:30:15.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartialView.Domein.csproj",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\PartialView.Domein.csproj",
+              "RelativeDocumentMoniker": "PartialView.Domein\\PartialView.Domein.csproj",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\PartialView.Domein.csproj",
+              "RelativeToolTip": "PartialView.Domein\\PartialView.Domein.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T08:49:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\PersonService.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Services\\PersonService.cs",
+              "RelativeToolTip": "PartialView.Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:24:59.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\DataDB\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "PartialView\\DataDB\\StudentDbContext.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\DataDB\\StudentDbContext.cs",
+              "RelativeToolTip": "PartialView\\DataDB\\StudentDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:06:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonDAO.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\PersonDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\PersonDAO.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Repositories\\PersonDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\PersonDAO.cs",
+              "ViewState": "AgIAAAQAAAAANjMzM7MiwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:29:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.Adult.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._sql22_vives/StudentDB26/True/SqlTable/dbo.Adult.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._sql22_vives/StudentDB26/True/SqlTable/dbo.Adult.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-20T08:38:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\appsettings.json",
+              "RelativeDocumentMoniker": "PartialView\\appsettings.json",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\appsettings.json",
+              "RelativeToolTip": "PartialView\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T08:44:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_tileView.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T11:02:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PartialView\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PartialView\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABkAAABAnZmZmZkowEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T10:58:10.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_footer.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_footer.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\_footer.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_footer.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\_footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T10:45:40.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonDBContext.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\Data\\PersonDBContext.cs",
+              "RelativeDocumentMoniker": "PartialView.Domein\\Data\\PersonDBContext.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\Data\\PersonDBContext.cs",
+              "RelativeToolTip": "PartialView.Domein\\Data\\PersonDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:47:04.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "PartialView.Domein\\Entities\\Person.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView.Domein\\Entities\\Person.cs",
+              "RelativeToolTip": "PartialView.Domein\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:43:26.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T10:31:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PersonVM.cs",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\ViewModels\\PersonVM.cs",
+              "RelativeDocumentMoniker": "PartialView\\ViewModels\\PersonVM.cs",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\ViewModels\\PersonVM.cs",
+              "RelativeToolTip": "PartialView\\ViewModels\\PersonVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:19:05.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T10:44:03.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_header.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_header.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\_header.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\PartialView\\PartialView\\Views\\Shared\\_header.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\_header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T10:47:56.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

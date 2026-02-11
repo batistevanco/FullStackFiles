@@ -1,0 +1,24 @@
+﻿@model vancoillie_batiste.ViewModels.LiedjeVM
+
+@if (Model != null)
+{
+    <div class="col-md-4">
+        <div class="tile">
+            <h4>Info song:</h4>
+            <div class="half">
+                Titel: @Model.Titel <br />
+                Genre: @Model.Genre <br />
+                prijs: € @Model.Kostprijs
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+   <script>
+       if(@Model.Kostprijs > 22){
+           @Model.Kostprijs = 25;
+       }
+   </script>
+
+}

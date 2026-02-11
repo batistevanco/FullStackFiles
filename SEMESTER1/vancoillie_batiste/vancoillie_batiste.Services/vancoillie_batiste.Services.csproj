@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\vancoillie_batiste.Domain\vancoillie_batiste.Domain.csproj" />
+    <ProjectReference Include="..\vancoillie_batiste.Repository\vancoillie_batiste.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

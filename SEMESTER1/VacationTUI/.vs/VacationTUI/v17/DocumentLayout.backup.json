@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\views\\hotel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\views\\hotel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\views\\shared\\displaytemplates\\_cardtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\views\\shared\\displaytemplates\\_cardtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632241A-192E-4A91-884C-4363D962E914}|VacationTUI.Domain\\VacationTUI.Domain.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.domain\\entitites\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632241A-192E-4A91-884C-4363D962E914}|VacationTUI.Domain\\VacationTUI.Domain.csproj|solutionrelative:vacationtui.domain\\entitites\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui\\viewmodels\\hotelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CF3AF-1F6E-4EA3-B69A-E544D0BEA735}|VacationTUI\\VacationTUI.csproj|solutionrelative:vacationtui\\viewmodels\\hotelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D882E13-C5FE-4AE4-A9CC-CC148712EF33}|VacationTUI.Repositories\\VacationTUI.Repositories.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.repositories\\hoteldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D882E13-C5FE-4AE4-A9CC-CC148712EF33}|VacationTUI.Repositories\\VacationTUI.Repositories.csproj|solutionrelative:vacationtui.repositories\\hoteldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632241A-192E-4A91-884C-4363D962E914}|VacationTUI.Domain\\VacationTUI.Domain.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.domain\\data\\databasesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632241A-192E-4A91-884C-4363D962E914}|VacationTUI.Domain\\VacationTUI.Domain.csproj|solutionrelative:vacationtui.domain\\data\\databasesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6622CE-449D-4EAF-BEBE-40C4AAF09030}|VacationTUI.Services\\VacationTUI.Services.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6622CE-449D-4EAF-BEBE-40C4AAF09030}|VacationTUI.Services\\VacationTUI.Services.csproj|solutionrelative:vacationtui.services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6622CE-449D-4EAF-BEBE-40C4AAF09030}|VacationTUI.Services\\VacationTUI.Services.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.services\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6622CE-449D-4EAF-BEBE-40C4AAF09030}|VacationTUI.Services\\VacationTUI.Services.csproj|solutionrelative:vacationtui.services\\interfaces\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D882E13-C5FE-4AE4-A9CC-CC148712EF33}|VacationTUI.Repositories\\VacationTUI.Repositories.csproj|z:\\github2de\\full-stack-development\\vacationtui\\vacationtui.repositories\\interfaces\\ihoteldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D882E13-C5FE-4AE4-A9CC-CC148712EF33}|VacationTUI.Repositories\\VacationTUI.Repositories.csproj|solutionrelative:vacationtui.repositories\\interfaces\\ihoteldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VacationTUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VacationTUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T16:35:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Hotel\\Index.cshtml",
+              "RelativeDocumentMoniker": "VacationTUI\\Views\\Hotel\\Index.cshtml",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Hotel\\Index.cshtml",
+              "RelativeToolTip": "VacationTUI\\Views\\Hotel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T16:32:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "VacationTUI\\wwwroot\\css\\site.css",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "VacationTUI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAMAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-13T16:01:58.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_cardTemplate.cshtml",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\DisplayTemplates\\_cardTemplate.cshtml",
+              "RelativeDocumentMoniker": "VacationTUI\\Views\\Shared\\DisplayTemplates\\_cardTemplate.cshtml",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\DisplayTemplates\\_cardTemplate.cshtml",
+              "RelativeToolTip": "VacationTUI\\Views\\Shared\\DisplayTemplates\\_cardTemplate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T16:00:36.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_footer.cshtml",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_footer.cshtml",
+              "RelativeDocumentMoniker": "VacationTUI\\Views\\Shared\\_footer.cshtml",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_footer.cshtml",
+              "RelativeToolTip": "VacationTUI\\Views\\Shared\\_footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T15:56:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_header.cshtml",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_header.cshtml",
+              "RelativeDocumentMoniker": "VacationTUI\\Views\\Shared\\_header.cshtml",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Views\\Shared\\_header.cshtml",
+              "RelativeToolTip": "VacationTUI\\Views\\Shared\\_header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T15:53:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "VacationTUI\\Controllers\\HotelController.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "VacationTUI\\Controllers\\HotelController.cs",
+              "ViewState": "AgIAAAwAAAAA1szMzMwGwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:43:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelVM.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\ViewModels\\HotelVM.cs",
+              "RelativeDocumentMoniker": "VacationTUI\\ViewModels\\HotelVM.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\ViewModels\\HotelVM.cs",
+              "RelativeToolTip": "VacationTUI\\ViewModels\\HotelVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:41:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Program.cs",
+              "RelativeDocumentMoniker": "VacationTUI\\Program.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI\\Program.cs",
+              "RelativeToolTip": "VacationTUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:34:36.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Services\\HotelService.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Services\\HotelService.cs",
+              "RelativeToolTip": "VacationTUI.Services\\HotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:29:10.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Services\\Interfaces\\IHotelService.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Services\\Interfaces\\IHotelService.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Services\\Interfaces\\IHotelService.cs",
+              "RelativeToolTip": "VacationTUI.Services\\Interfaces\\IHotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:29:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelDAO.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Repositories\\HotelDAO.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Repositories\\HotelDAO.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Repositories\\HotelDAO.cs",
+              "RelativeToolTip": "VacationTUI.Repositories\\HotelDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:16:37.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHotelDAO.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Repositories\\Interfaces\\IHotelDAO.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Repositories\\Interfaces\\IHotelDAO.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Repositories\\Interfaces\\IHotelDAO.cs",
+              "RelativeToolTip": "VacationTUI.Repositories\\Interfaces\\IHotelDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:16:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseSimulation.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Domain\\Data\\DatabaseSimulation.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Domain\\Data\\DatabaseSimulation.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Domain\\Data\\DatabaseSimulation.cs",
+              "RelativeToolTip": "VacationTUI.Domain\\Data\\DatabaseSimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:00:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Domain\\Entitites\\Hotel.cs",
+              "RelativeDocumentMoniker": "VacationTUI.Domain\\Entitites\\Hotel.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\VacationTUI\\VacationTUI.Domain\\Entitites\\Hotel.cs",
+              "RelativeToolTip": "VacationTUI.Domain\\Entitites\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:58:19.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿@model MusicStore.ViewModels.StoreBrowseVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Browse</title>
+</head>
+<body>
+
+<div>
+    <h1>Browsing Genre @Model?.Genre?.Name</h1>
+        <ul>
+            @foreach (var album in Model?.Albums)
+            {
+                <li> @album.Title</li>
+            }
+        </ul>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>

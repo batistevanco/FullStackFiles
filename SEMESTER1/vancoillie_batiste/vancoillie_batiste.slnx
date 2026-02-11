@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="vancoillie_batiste.Domain/vancoillie_batiste.Domain.csproj" />
+  <Project Path="vancoillie_batiste.Repository/vancoillie_batiste.Repository.csproj" />
+  <Project Path="vancoillie_batiste.Services/vancoillie_batiste.Services.csproj" />
+  <Project Path="vancoillie_batiste/vancoillie_batiste.csproj" />
+</Solution>

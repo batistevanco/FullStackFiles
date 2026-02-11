@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\bin\Debug\net9.0\BeerShopTest.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\bin\Debug\net9.0\BeerShopTest.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\bin\Debug\net9.0\BeerShopTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\bin\Debug\net9.0\BeerShopTest.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\refint\BeerShopTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\BeerShopTest.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShopTest\BeerShopTest.Domain\obj\Debug\net9.0\ref\BeerShopTest.Domain.dll

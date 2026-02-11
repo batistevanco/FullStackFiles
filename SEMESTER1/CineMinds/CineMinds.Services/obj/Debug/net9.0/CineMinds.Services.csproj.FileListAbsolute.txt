@@ -1,0 +1,35 @@
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.deps.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Repositories.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Domains.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Repositories.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.csproj.AssemblyReference.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.AssemblyInfoInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.AssemblyInfo.cs
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMind.229DCD02.Up2Date
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\refint\CineMinds.Services.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Services\obj\Debug\net9.0\ref\CineMinds.Services.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.deps.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Services.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Domains.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\bin\Debug\net9.0\CineMinds.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMind.229DCD02.Up2Date
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\refint\CineMinds.Services.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\CineMinds.Services.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Services\obj\Debug\net9.0\ref\CineMinds.Services.dll

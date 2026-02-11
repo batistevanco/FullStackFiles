@@ -1,0 +1,382 @@
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\appsettings.Development.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\appsettings.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.staticwebassets.runtime.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.staticwebassets.endpoints.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.exe
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.deps.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.runtimeconfig.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.dll
+Z:\GitHub\Full Stack Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.pdb
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.AssemblyInfoInputs.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.AssemblyInfo.cs
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.csproj.CoreCompileInputs.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.MvcApplicationPartsAssemblyInfo.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.RazorAssemblyInfo.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.RazorAssemblyInfo.cs
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\bundle\Introduction.styles.css
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\projectbundle\Introduction.bundle.scp.css
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\chf4whtwd6-b9sayid5wm.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\q8dvl86310-61n19gt1b8.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4h8frze0zf-xtxxf3hu2r.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\667n2cxpur-bqjiyaj88i.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2akkfoj41b-c2jlpeoesf.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\snb4zgvsi7-erw9l3u2r3.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\6nbijllyi8-aexeepp0ev.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\byyqzylkuk-d7shbmvgxk.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\ljyoaof3at-ausgxo2sd3.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z30efio6tc-k8d9w2qqmf.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\vmbf541kaa-cosvhxvwiu.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xqaskt7lnw-ub07r2b239.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\gxhnlkbzbc-fvhpjtyr6v.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\7nhn7oa6jl-b7pk76d08c.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\v9r8asa1ev-fsbi9cje9m.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\167xk9o32m-rzd6atqjts.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\nyhflkh0eu-ee0r1s7dh0.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pgtw03cy99-dxx9fxp4il.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z1o3bt4kmg-jd9uben2k1.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\lzsbh9jsbv-khv3u5hwcm.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xp26dfaxeg-r4e9w2rdcm.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xqxcxsidg7-lcd1t2u6c8.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8w126om5n1-c2oey78nd0.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\i09e3lb1vc-tdbxkamptv.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2pr7awklvq-j5mq2jizvt.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\bsilq44mjc-06098lyss8.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\fupvjbz1w1-nvvlpmu67g.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\jxfnpe4hnf-s35ty4nyc5.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xophn9zfyo-pj5nd1wqec.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\hdnyf0gk42-46ein0sx1k.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\dlvqlo2qfs-v0zj4ognzu.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\prfwl7hxzl-37tfw0ft22.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4i6hj2zxyl-hrwsygsryq.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\txakwa8qmo-pk9g2wxc8p.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\c60vk5n00k-ft3s53vfgj.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\977utuhj59-6cfz1n2cew.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\na44mgqd3m-6pdc2jztkx.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xxmbglyz0n-493y06b0oq.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xbqps0z398-iovd86k7lj.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4f935ntckx-vr1egmr9el.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\bai156n47h-kbrnm935zg.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\kvwxcyi39y-jj8uyg4cgr.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\p5xko59iul-y7v9cxd14o.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z5hom1yvay-notf2xhcfb.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\muqyv1fssg-h1s4sie4z3.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xk11srgxk6-63fj8s7r0e.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\kpv5y8r8uu-0j3bgjxly4.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\mtjevrdn7o-47otxtyo56.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\1hbsclnrv8-4v8eqarkd7.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\lkovy5o0ol-356vix0kms.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pvmgpiub10-83jwlth58m.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pn23fdrkx5-mrlpezrjn3.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2h5g9kn5sc-lzl9nlhx6b.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8o903a61h0-ag7o75518u.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\56ogbqb33a-x0q3zqp4vz.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\sboz0cvxkc-0i3buxo5is.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\85dmuvj7t8-o1o13a6vjx.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8rvx2j2q36-ttgo8qnofa.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\m0gwot4c2m-2z0ns9nrw6.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\k331isn3cu-muycvpuwrr.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\60etjdmvi2-87fc7y1x7t.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\efxp7xel4l-mlv21k5csn.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pv154tyuk4-t6cyweifyd.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\compressed\p9s356vpwi-t6cyweifyd.gz
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.development.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.dll
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\refint\Introduction.dll
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.pdb
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.genruntimeconfig.cache
+Z:\GitHub\Full Stack Development\Introduction\Introduction\obj\Debug\net9.0\ref\Introduction.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\appsettings.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.staticwebassets.endpoints.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\appsettings.Development.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.staticwebassets.runtime.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.exe
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.deps.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.runtimeconfig.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Introduction.pdb
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.AssemblyInfoInputs.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.AssemblyInfo.cs
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.csproj.CoreCompileInputs.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.MvcApplicationPartsAssemblyInfo.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.RazorAssemblyInfo.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.RazorAssemblyInfo.cs
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.sourcelink.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\bundle\Introduction.styles.css
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\scopedcss\projectbundle\Introduction.bundle.scp.css
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\chf4whtwd6-b9sayid5wm.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\q8dvl86310-61n19gt1b8.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4h8frze0zf-xtxxf3hu2r.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\667n2cxpur-bqjiyaj88i.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2akkfoj41b-c2jlpeoesf.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\snb4zgvsi7-erw9l3u2r3.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\6nbijllyi8-aexeepp0ev.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\byyqzylkuk-d7shbmvgxk.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\ljyoaof3at-ausgxo2sd3.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z30efio6tc-k8d9w2qqmf.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\vmbf541kaa-cosvhxvwiu.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xqaskt7lnw-ub07r2b239.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\gxhnlkbzbc-fvhpjtyr6v.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\7nhn7oa6jl-b7pk76d08c.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\v9r8asa1ev-fsbi9cje9m.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\167xk9o32m-rzd6atqjts.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\nyhflkh0eu-ee0r1s7dh0.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pgtw03cy99-dxx9fxp4il.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z1o3bt4kmg-jd9uben2k1.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\lzsbh9jsbv-khv3u5hwcm.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xp26dfaxeg-r4e9w2rdcm.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xqxcxsidg7-lcd1t2u6c8.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8w126om5n1-c2oey78nd0.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\i09e3lb1vc-tdbxkamptv.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2pr7awklvq-j5mq2jizvt.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\bsilq44mjc-06098lyss8.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\fupvjbz1w1-nvvlpmu67g.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\jxfnpe4hnf-s35ty4nyc5.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xophn9zfyo-pj5nd1wqec.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\hdnyf0gk42-46ein0sx1k.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\dlvqlo2qfs-v0zj4ognzu.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\prfwl7hxzl-37tfw0ft22.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4i6hj2zxyl-hrwsygsryq.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\txakwa8qmo-pk9g2wxc8p.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\c60vk5n00k-ft3s53vfgj.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\977utuhj59-6cfz1n2cew.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\na44mgqd3m-6pdc2jztkx.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xxmbglyz0n-493y06b0oq.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xbqps0z398-iovd86k7lj.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\4f935ntckx-vr1egmr9el.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\bai156n47h-kbrnm935zg.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\kvwxcyi39y-jj8uyg4cgr.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\p5xko59iul-y7v9cxd14o.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\z5hom1yvay-notf2xhcfb.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\muqyv1fssg-h1s4sie4z3.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\xk11srgxk6-63fj8s7r0e.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\kpv5y8r8uu-0j3bgjxly4.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\mtjevrdn7o-47otxtyo56.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\1hbsclnrv8-4v8eqarkd7.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\lkovy5o0ol-356vix0kms.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pvmgpiub10-83jwlth58m.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pn23fdrkx5-mrlpezrjn3.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\2h5g9kn5sc-lzl9nlhx6b.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8o903a61h0-ag7o75518u.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\56ogbqb33a-x0q3zqp4vz.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\sboz0cvxkc-0i3buxo5is.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\85dmuvj7t8-o1o13a6vjx.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\8rvx2j2q36-ttgo8qnofa.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\m0gwot4c2m-2z0ns9nrw6.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\k331isn3cu-muycvpuwrr.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\60etjdmvi2-87fc7y1x7t.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\efxp7xel4l-mlv21k5csn.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\pv154tyuk4-t6cyweifyd.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\compressed\p9s356vpwi-t6cyweifyd.gz
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.development.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\refint\Introduction.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.pdb
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.genruntimeconfig.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\ref\Introduction.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Humanizer.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.Build.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Mono.TextTemplating.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\Newtonsoft.Json.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Common.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Configuration.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Frameworks.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.LibraryModel.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Packaging.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.ProjectModel.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Protocol.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\NuGet.Versioning.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.CodeDom.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Composition.Convention.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Composition.Hosting.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Composition.Runtime.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Composition.TypedParts.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\af\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ar\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\az\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\bg\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\da\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\el\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fa\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\he\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\hr\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\hu\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\hy\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\id\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\is\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ku\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\lv\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\mt\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\nb\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\nl\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ro\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\sk\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\sl\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\sr\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\sv\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\uk\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\vi\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduction.csproj.AssemblyReference.cache
+Z:\GitHub\Full-Stack-Development\Introduction\Introduction\obj\Debug\net9.0\Introduc.32802CE7.Up2Date

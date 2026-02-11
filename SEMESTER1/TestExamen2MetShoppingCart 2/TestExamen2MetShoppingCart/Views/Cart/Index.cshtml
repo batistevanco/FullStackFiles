@@ -1,0 +1,43 @@
+﻿@model TestExamen2MetShoppingCart.ViewModels.CartIndexVM;
+
+@{
+    ViewData["Title"] = "Winkelwagen";
+}
+
+<h1>Winkelwagen</h1>
+
+@if (!Model.Items.Any())
+{
+    <p>Je winkelwagen is leeg.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Prijs</th>
+                <th>Aantal</th>
+                <th>Subtotaal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.PriceAtTime.ToString("0.00")</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Quantity* item.PriceAtTime).ToString("0.00")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Totaal: @Model.GrandTotal.ToString("0.00")</h4>
+}
+
+<a asp-controller="Shop" asp-action="Index" class="btn btn-secondary">
+    Verder winkelen
+</a>
+

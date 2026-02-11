@@ -1,0 +1,18 @@
+﻿@model PartialView.ViewModels.PersonVM
+
+@if (Model != null)
+{
+    <div class="col-md-4">
+        <div class="tile">
+            <div class="half">
+                @Model.Naam
+                @Model.Voornaam
+                ingeschreven: @Model.EnrollDate.ToString("dd/MM/yyyy")
+            </div>
+            <div class="half">
+
+                <img src="~/Images/@Model.ImagePath" asp-append-version="true">  @*// verklaring asp-append-version https://www.c-sharpcorner.com/blogs/aspappendversion-feature-in-asp-net-core*@
+            </div>
+        </div>
+    </div>
+}

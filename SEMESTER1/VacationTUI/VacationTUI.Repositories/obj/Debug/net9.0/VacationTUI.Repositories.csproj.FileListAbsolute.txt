@@ -1,0 +1,16 @@
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\bin\Debug\net9.0\VacationTUI.Repositories.deps.json
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\bin\Debug\net9.0\VacationTUI.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\bin\Debug\net9.0\VacationTUI.Repositories.pdb
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\bin\Debug\net9.0\VacationTUI.Domain.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\bin\Debug\net9.0\VacationTUI.Domain.pdb
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.csproj.AssemblyReference.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.AssemblyInfoInputs.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.AssemblyInfo.cs
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.csproj.CoreCompileInputs.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.sourcelink.json
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\Vacation.8A2498F6.Up2Date
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\refint\VacationTUI.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\VacationTUI.Repositories.pdb
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Repositories\obj\Debug\net9.0\ref\VacationTUI.Repositories.dll

@@ -1,0 +1,16 @@
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\bin\Debug\net9.0\PartialView.Repositories.deps.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\bin\Debug\net9.0\PartialView.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\bin\Debug\net9.0\PartialView.Repositories.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\bin\Debug\net9.0\PartialView.Domein.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\bin\Debug\net9.0\PartialView.Domein.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.csproj.AssemblyReference.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.AssemblyInfoInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.AssemblyInfo.cs
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.csproj.CoreCompileInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.sourcelink.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialV.AA9B799B.Up2Date
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\refint\PartialView.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\PartialView.Repositories.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Repositories\obj\Debug\net9.0\ref\PartialView.Repositories.dll

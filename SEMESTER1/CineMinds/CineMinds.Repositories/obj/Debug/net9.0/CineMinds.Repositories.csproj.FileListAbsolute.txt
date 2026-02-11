@@ -1,0 +1,35 @@
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.deps.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.runtimeconfig.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Domains.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.csproj.AssemblyReference.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.AssemblyInfoInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.AssemblyInfo.cs
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMind.0C2AAA3B.Up2Date
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\refint\CineMinds.Repositories.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.genruntimeconfig.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\ref\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.deps.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\bin\Debug\net9.0\CineMinds.Domains.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMind.0C2AAA3B.Up2Date
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\refint\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\CineMinds.Repositories.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Repositories\obj\Debug\net9.0\ref\CineMinds.Repositories.dll

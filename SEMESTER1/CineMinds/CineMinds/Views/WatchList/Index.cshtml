@@ -1,0 +1,61 @@
+﻿@model IEnumerable<CineMinds.ViewModels.WatchListVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if(Model != null){
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.WatchlistItemId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Director)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.WatchlistItemId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td> |
+                        <form asp-action="Delete" asp-route-id="@item.WatchlistItemId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-link p-0 text-danger">Delete</button>
+                        </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}

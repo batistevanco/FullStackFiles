@@ -1,0 +1,44 @@
+﻿@model Canteen.Domain.EntitiesDB.Order
+
+@{
+    ViewData["Title"] = "Bestelling details";
+}
+
+<h1>Bestelling @Model.OrderId</h1>
+
+<p>
+    <strong>Klant:</strong> @Model.CustomerName <br />
+    <strong>Datum:</strong> @Model.OrderDate
+</p>
+
+<h4>Producten</h4>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Aantal</th>
+            <th>Prijs (€)</th>
+            <th>Subtotaal (€)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.OrderLines)
+        {
+            <tr>
+                <td>@line.ProductName</td>
+                <td>@line.Quantity</td>
+                <td>@line.PriceAtOrder.ToString("0.00")</td>
+                <td>@(line.Quantity* line.PriceAtOrder).ToString("0.00")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4 class="mt-3">
+    Totaal: € @Model.TotalPrice.ToString("0.00")
+</h4>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">
+    Terug naar bestellingen
+</a>

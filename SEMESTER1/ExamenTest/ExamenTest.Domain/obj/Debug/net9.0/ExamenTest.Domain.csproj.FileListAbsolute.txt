@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\bin\Debug\net9.0\ExamenTest.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\bin\Debug\net9.0\ExamenTest.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\bin\Debug\net9.0\ExamenTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\bin\Debug\net9.0\ExamenTest.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\refint\ExamenTest.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ExamenTest.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\ExamenTest\ExamenTest.Domain\obj\Debug\net9.0\ref\ExamenTest.Domain.dll

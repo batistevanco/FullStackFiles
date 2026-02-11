@@ -1,0 +1,108 @@
+﻿@model Travel.ViewModels.TravelVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h4>TravelVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DepatureCode" class="control-label"></label>
+                <select class="form-control" asp-for="DepatureCode"
+                        asp-items="Model.CountryList">
+                    <option disabled selected value="">Select a Country</option>
+                </select>
+                <span asp-validation-for="DepatureCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ArrivalCode" class="control-label"></label>
+                <select class="form-control" asp-for="ArrivalCode"
+                        asp-items="Model.CountryList">
+                    <option disabled selected value="">Select a Country</option>
+                </select>
+                <span asp-validation-for="ArrivalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TravelDate" class="control-label"></label>
+                <input asp-for="TravelDate" class="form-control" />
+                <span asp-validation-for="TravelDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReturnDate" class="control-label"></label>
+                <input asp-for="ReturnDate" class="form-control" />
+                <span asp-validation-for="ReturnDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+            
+        </form>
+        <span>I travel so many days.</span>
+        <input type="text" id="travelDays" />
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+    <script>
+        $(() => {
+            console.log("start");
+
+            $("#ReturnDate").on('focusout', () => {
+                if ($('#TravelDate').val() == "")
+                    alert("don't forget begindate");
+                else {
+                    let days = (new Date($('#ReturnDate').val())
+                        - new Date($('#TravelDate').val()))
+                        / (1000 * 60 * 60 * 24);
+                    $("#travelDays").val(days);
+                }
+            })
+
+        });
+        window.addEventListener('load', () => {
+
+           // var travelDateInput = document.getElementById('TravelDate');
+           // var returnDateInput = document.getElementById('ReturnDate');
+           // var travelDaysLabel = document.getElementById('travelDays');
+           
+          
+           // returnDateInput.addEventListener('focusout', () => {
+           //      var travelDate = new Date(travelDateInput.value);
+           //      var returnDate = new Date(returnDateInput.value);
+
+           //      if (!travelDate?.value) {
+           //         alert("Please select both dates.");
+           //      }
+           //      else{
+           //           var timeDiff = returnDate - travelDate;
+           //          var daysDiff = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
+           //          travelDaysLabel.value = daysDiff + " day(s)";
+           //          console.log("Travel days: " + daysDiff);
+           //      }
+               
+           // });
+           //});
+
+           
+
+         
+
+           
+            
+
+       
+    </script>
+}

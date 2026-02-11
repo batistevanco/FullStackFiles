@@ -1,0 +1,571 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\liedje\\getsongsbygenrevm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\liedje\\getsongsbygenrevm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\viewmodels\\songbygenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\viewmodels\\songbygenrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\shared\\displaytemplates\\_tileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\shared\\displaytemplates\\_tileview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\liedje\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\liedje\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\controllers\\liedjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\controllers\\liedjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.repository\\liedjedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|solutionrelative:vancoillie_batiste.repository\\liedjedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.repository\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|solutionrelative:vancoillie_batiste.repository\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.domain\\entitiesdb\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|solutionrelative:vancoillie_batiste.domain\\entitiesdb\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.domain\\entitiesdb\\liedje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|solutionrelative:vancoillie_batiste.domain\\entitiesdb\\liedje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\viewmodels\\liedjevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\viewmodels\\liedjevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\viewmodels\\createliedjevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\viewmodels\\createliedjevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.services\\liedjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|solutionrelative:vancoillie_batiste.services\\liedjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|solutionrelative:vancoillie_batiste.services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.repository\\interfaces\\iliedjedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|solutionrelative:vancoillie_batiste.repository\\interfaces\\iliedjedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.repository\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|solutionrelative:vancoillie_batiste.repository\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.services\\interfaces\\iliedjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|solutionrelative:vancoillie_batiste.services\\interfaces\\iliedjeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|solutionrelative:vancoillie_batiste.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\viewmodels\\genrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\viewmodels\\genrevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.services\\vancoillie_batiste.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44596866-B99F-420E-B971-D4C510090A19}|vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj|solutionrelative:vancoillie_batiste.services\\vancoillie_batiste.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.repository\\vancoillie_batiste.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22D62A8A-8650-4714-B88E-166F28ED388C}|vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj|solutionrelative:vancoillie_batiste.repository\\vancoillie_batiste.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{649DA8D7-5794-4F85-8D1B-732E1BAC5EDF}|vancoillie_batiste\\vancoillie_batiste.csproj|solutionrelative:vancoillie_batiste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|y:\\github2de\\full-stack-development\\vancoillie_batiste\\vancoillie_batiste.domain\\datadb\\liedjesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C91B86-76B6-4F35-8D4F-494A1DB3C695}|vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj|solutionrelative:vancoillie_batiste.domain\\datadb\\liedjesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_tileView.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Shared\\DisplayTemplates\\_tileView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T12:55:27.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "vancoillie_batiste\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:55:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Liedje.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\EntitiesDB\\Liedje.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Domain\\EntitiesDB\\Liedje.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\EntitiesDB\\Liedje.cs",
+              "RelativeToolTip": "vancoillie_batiste.Domain\\EntitiesDB\\Liedje.cs",
+              "ViewState": "AgIAAAUAAAAQbWZmZmYkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:16:36.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\GenreDAO.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Repository\\GenreDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\GenreDAO.cs",
+              "RelativeToolTip": "vancoillie_batiste.Repository\\GenreDAO.cs",
+              "ViewState": "AgIAAAMAAACwVTMzMzMawC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:14:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\EntitiesDB\\Genre.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Domain\\EntitiesDB\\Genre.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\EntitiesDB\\Genre.cs",
+              "RelativeToolTip": "vancoillie_batiste.Domain\\EntitiesDB\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:17:33.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LiedjeDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\LiedjeDAO.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Repository\\LiedjeDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\LiedjeDAO.cs",
+              "RelativeToolTip": "vancoillie_batiste.Repository\\LiedjeDAO.cs",
+              "ViewState": "AgIAACMAAACAyszMzGw3wEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:14:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Liedje\\Create.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Liedje\\Create.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Liedje\\Create.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Liedje\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T13:33:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSongsByGenreVM.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Liedje\\GetSongsByGenreVM.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Liedje\\GetSongsByGenreVM.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Liedje\\GetSongsByGenreVM.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Liedje\\GetSongsByGenreVM.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T13:11:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongByGenreVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\SongByGenreVM.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\ViewModels\\SongByGenreVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\SongByGenreVM.cs",
+              "RelativeToolTip": "vancoillie_batiste\\ViewModels\\SongByGenreVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:32:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Controllers\\RegisterController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "vancoillie_batiste\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:35:33.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LiedjeVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\LiedjeVM.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\ViewModels\\LiedjeVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\LiedjeVM.cs",
+              "RelativeToolTip": "vancoillie_batiste\\ViewModels\\LiedjeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:24:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_footer.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\_footer.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Shared\\_footer.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\_footer.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Shared\\_footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T12:55:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\wwwroot\\css\\site.css",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "vancoillie_batiste\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-13T13:53:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T12:52:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Views\\Register\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "vancoillie_batiste\\Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T14:04:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiedjeController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\LiedjeController.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Controllers\\LiedjeController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\LiedjeController.cs",
+              "RelativeToolTip": "vancoillie_batiste\\Controllers\\LiedjeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:25:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Controllers\\HomeController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "vancoillie_batiste\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:44:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "vancoillie_batiste\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAMAAACkOzMzM/MmwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:23:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateLiedjeVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\CreateLiedjeVM.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\ViewModels\\CreateLiedjeVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\CreateLiedjeVM.cs",
+              "RelativeToolTip": "vancoillie_batiste\\ViewModels\\CreateLiedjeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:24:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Program.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\Program.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\Program.cs",
+              "RelativeToolTip": "vancoillie_batiste\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:10:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILiedjeService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\Interfaces\\ILiedjeService.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Services\\Interfaces\\ILiedjeService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\Interfaces\\ILiedjeService.cs",
+              "RelativeToolTip": "vancoillie_batiste.Services\\Interfaces\\ILiedjeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:37:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LiedjeService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\LiedjeService.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Services\\LiedjeService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\LiedjeService.cs",
+              "RelativeToolTip": "vancoillie_batiste.Services\\LiedjeService.cs",
+              "ViewState": "AgIAABUAAABA0czMzIwvwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:20:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILiedjeDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\Interfaces\\ILiedjeDAO.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Repository\\Interfaces\\ILiedjeDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\Interfaces\\ILiedjeDAO.cs",
+              "RelativeToolTip": "vancoillie_batiste.Repository\\Interfaces\\ILiedjeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:38:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Services\\GenreService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\GenreService.cs",
+              "RelativeToolTip": "vancoillie_batiste.Services\\GenreService.cs",
+              "ViewState": "AgIAAAYAAAAAbmZmZmYSwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:20:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Repository\\Interfaces\\IDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "vancoillie_batiste.Repository\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:12:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenreVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\GenreVM.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\ViewModels\\GenreVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\ViewModels\\GenreVM.cs",
+              "RelativeToolTip": "vancoillie_batiste\\ViewModels\\GenreVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:24:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Services\\Interfaces\\IService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "vancoillie_batiste.Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:19:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "vancoillie_batiste.Services",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+              "RelativeToolTip": "vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T12:19:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "vancoillie_batiste.Repository",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+              "RelativeToolTip": "vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T12:11:33.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\appsettings.json",
+              "RelativeDocumentMoniker": "vancoillie_batiste\\appsettings.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\appsettings.json",
+              "RelativeToolTip": "vancoillie_batiste\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T12:10:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LiedjesDbContext.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\DataDB\\LiedjesDbContext.cs",
+              "RelativeDocumentMoniker": "vancoillie_batiste.Domain\\DataDB\\LiedjesDbContext.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\DataDB\\LiedjesDbContext.cs",
+              "RelativeToolTip": "vancoillie_batiste.Domain\\DataDB\\LiedjesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:10:20.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

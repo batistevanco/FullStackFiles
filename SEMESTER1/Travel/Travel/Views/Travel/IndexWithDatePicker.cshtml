@@ -1,0 +1,101 @@
+﻿@model Travel.ViewModels.TravelDatePickerVM
+
+@{
+    ViewData["Title"] = "IndexWithDatePicker";
+}
+
+<h1>IndexWithDatePicker</h1>
+
+<h4>TravelDatePickerVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="IndexWithDatePicker">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DepatureCode" class="control-label"></label>
+                <select class="form-control" asp-for="DepatureCode"
+                        asp-items="Model.CountryList">
+                    <option disabled selected value="">Select a Country</option>
+                </select>
+                <span asp-validation-for="DepatureCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ArrivalCode" class="control-label"></label>
+                <select class="form-control" asp-for="ArrivalCode"
+                        asp-items="Model.CountryList">
+                    <option disabled selected value="">Select a Country</option>
+                </select>
+                <span asp-validation-for="ArrivalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TravelDate" class="control-label"></label>
+                <input asp-for="TravelDate" class="form-control" />
+                <span asp-validation-for="TravelDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReturnDate" class="control-label"></label>
+                <input asp-for="ReturnDate" class="form-control" />
+                <span asp-validation-for="ReturnDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+        <span>I travel so many days.</span>
+        <input type="text" id="travelDays" />
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        $(() => {
+            let mindate = new Date();
+            $("#TravelDate").flatpickr({
+                locale: "nl",
+                dateFormat: "Y-m-d",
+                showMonths: 3,
+                minDate: "today",
+                maxDate: mindate.fp_incr(90),
+                onChange: (minDateStr) => {
+                    let mindate = new Date(minDateStr);
+                    $("#ReturnDate").flatpickr({
+                        locale: "nl",
+                        dateFormat: "Y-m-d",
+                        showMonths: 3,
+                        minDate: mindate,
+                        maxDate: mindate.fp_incr(90)
+                    })
+                    },
+                    "disable": [
+                        function(date) {
+                            // return true to disable
+                            return (date.getDay() === 0 || date.getDay() === 6);
+
+                        }
+                    ],
+                    "locale": {
+                        "firstDayOfWeek": 1 // start week on Monday
+                    }
+                    
+            })
+
+            $("#ReturnDate").on('focusout', () => {
+                if ($('#TravelDate').val() == "")
+                    alert("don't forget begindate");
+                else {
+                    let days = (new Date($('#ReturnDate').val())
+                        - new Date($('#TravelDate').val()))
+                        / (1000 * 60 * 60 * 24);
+                    $("#travelDays").val(days);
+                }
+            })
+        });
+    </script>
+}

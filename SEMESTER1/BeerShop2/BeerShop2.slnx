@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BeerShop2.Domain/BeerShop2.Domain.csproj" />
+  <Project Path="BeerShop2.Repositories/BeerShop2.Repositories.csproj" />
+  <Project Path="BeerShop2.Services/BeerShop2.Services.csproj" />
+  <Project Path="BeerShop2/BeerShop2.csproj" />
+</Solution>

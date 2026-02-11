@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|solutionrelative:beershoptest.services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\viewmodels\\beervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\viewmodels\\beervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.interfaces\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|solutionrelative:beershoptest.interfaces\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.interfaces\\interfaces\\ibeerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|solutionrelative:beershoptest.interfaces\\interfaces\\ibeerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.services\\breweryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|solutionrelative:beershoptest.services\\breweryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|solutionrelative:beershoptest.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.services\\interfaces\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C761CA-4A01-4ECE-4BB8-A544715F011F}|BeerShopTest.Services\\BeerShopTest.Services.csproj|solutionrelative:beershoptest.services\\interfaces\\ibeerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.interfaces\\brewerydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|solutionrelative:beershoptest.interfaces\\brewerydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.interfaces\\beerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|solutionrelative:beershoptest.interfaces\\beerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\generic\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\generic\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest\\beershoptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D329F4F-EB31-D5AB-04A7-AED33E99556A}|BeerShopTest\\BeerShopTest.csproj|solutionrelative:beershoptest\\beershoptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|y:\\github2de\\full-stack-development\\beershoptest\\beershoptest.interfaces\\beershoptest.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CAB6A54-4A2F-A0E2-69E2-71B16C7DE0EE}|BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj|solutionrelative:beershoptest.interfaces\\beershoptest.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Beer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeerShopTest\\Views\\Beer\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Beer\\Index.cshtml",
+              "RelativeToolTip": "BeerShopTest\\Views\\Beer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T15:56:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBeerService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\Interfaces\\IBeerService.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Services\\Interfaces\\IBeerService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\Interfaces\\IBeerService.cs",
+              "RelativeToolTip": "BeerShopTest.Services\\Interfaces\\IBeerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:16:26.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BeerShopTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BeerShopTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T15:46:56.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\appsettings.json",
+              "RelativeDocumentMoniker": "BeerShopTest\\appsettings.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\appsettings.json",
+              "RelativeToolTip": "BeerShopTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T15:04:22.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeerVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\ViewModels\\BeerVM.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\ViewModels\\BeerVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\ViewModels\\BeerVM.cs",
+              "RelativeToolTip": "BeerShopTest\\ViewModels\\BeerVM.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYEwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:31:06.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BeerShopTest\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:45:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\Controllers\\BeerController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "BeerShopTest\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAAAcAAAAAAQAAAAARwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:49:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Services\\BeerService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\BeerService.cs",
+              "RelativeToolTip": "BeerShopTest.Services\\BeerService.cs",
+              "ViewState": "AgIAAB8AAAAANTMzMzMQwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:17:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Program.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\Program.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Program.cs",
+              "RelativeToolTip": "BeerShopTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:20:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BreweryDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BreweryDAO.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Interfaces\\BreweryDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BreweryDAO.cs",
+              "RelativeToolTip": "BeerShopTest.Interfaces\\BreweryDAO.cs",
+              "ViewState": "AgIAABMAAACAAAAAAIAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:10:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BeerShopTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BeerShopTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T08:14:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Interfaces\\Interfaces\\IDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "BeerShopTest.Interfaces\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:06:22.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBeerDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\Interfaces\\IBeerDAO.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Interfaces\\Interfaces\\IBeerDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\Interfaces\\IBeerDAO.cs",
+              "RelativeToolTip": "BeerShopTest.Interfaces\\Interfaces\\IBeerDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:07:46.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BeerDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BeerDAO.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Interfaces\\BeerDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BeerDAO.cs",
+              "RelativeToolTip": "BeerShopTest.Interfaces\\BeerDAO.cs",
+              "ViewState": "AgIAAAMAAAAAZmZmZqYowCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:10:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Services\\Interfaces\\IService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "BeerShopTest.Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:15:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BreweryService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\BreweryService.cs",
+              "RelativeDocumentMoniker": "BeerShopTest.Services\\BreweryService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Services\\BreweryService.cs",
+              "RelativeToolTip": "BeerShopTest.Services\\BreweryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:18:03.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\Controllers\\GenericController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "BeerShopTest\\Controllers\\GenericController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:25:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Generic\\DataStore.cs",
+              "RelativeDocumentMoniker": "BeerShopTest\\Generic\\DataStore.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\Generic\\DataStore.cs",
+              "RelativeToolTip": "BeerShopTest\\Generic\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:24:38.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BeerShopTest.csproj",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\BeerShopTest.csproj",
+              "RelativeDocumentMoniker": "BeerShopTest\\BeerShopTest.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest\\BeerShopTest.csproj",
+              "RelativeToolTip": "BeerShopTest\\BeerShopTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T08:59:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BeerShopTest.Repositories.csproj",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj",
+              "RelativeDocumentMoniker": "BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShopTest\\BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj",
+              "RelativeToolTip": "BeerShopTest.Interfaces\\BeerShopTest.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T09:00:31.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

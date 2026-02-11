@@ -1,0 +1,42 @@
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.deps.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.AssemblyReference.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfoInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfo.cs
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.CoreCompileInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.sourcelink.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\refint\PartialView.Domein.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Domein\obj\Debug\net9.0\ref\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.deps.json
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.AssemblyReference.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.GeneratedMSBuildEditorConfig.editorconfig
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfoInputs.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfo.cs
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.CoreCompileInputs.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\refint\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\ref\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.runtimeconfig.json
+C:\full Stack Development - oefeningen\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.deps.json
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\bin\Debug\net9.0\PartialView.Domein.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\refint\PartialView.Domein.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\PartialView.Domein.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Domein\obj\Debug\net9.0\ref\PartialView.Domein.dll

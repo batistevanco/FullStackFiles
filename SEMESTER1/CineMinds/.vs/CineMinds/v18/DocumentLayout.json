@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.repositories\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|solutionrelative:cineminds.repositories\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.repositories\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|solutionrelative:cineminds.repositories\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\viewmodels\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E86FB2-0788-48B2-9D07-8FE3D2E2B056}|CineMinds.Domains\\CineMinds.Domains.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.domains\\entitiesdb\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E86FB2-0788-48B2-9D07-8FE3D2E2B056}|CineMinds.Domains\\CineMinds.Domains.csproj|solutionrelative:cineminds.domains\\entitiesdb\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds\\views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F510B116-4140-4923-8D56-81965FEE933A}|CineMinds\\CineMinds.csproj|solutionrelative:cineminds\\views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\directorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9D659E-C41E-4A71-8716-3F08CF157BBD}|CineMinds.Services\\CineMinds.Services.csproj|solutionrelative:cineminds.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.repositories\\watchlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|solutionrelative:cineminds.repositories\\watchlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.repositories\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|solutionrelative:cineminds.repositories\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEF0BFC-08EA-46ED-A4A7-3894A02C4F56}|CineMinds.Repositories\\CineMinds.Repositories.csproj|solutionrelative:cineminds.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E86FB2-0788-48B2-9D07-8FE3D2E2B056}|CineMinds.Domains\\CineMinds.Domains.csproj|y:\\github2de\\full-stack-development\\cineminds\\cineminds.domains\\entitiesdb\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E86FB2-0788-48B2-9D07-8FE3D2E2B056}|CineMinds.Domains\\CineMinds.Domains.csproj|solutionrelative:cineminds.domains\\entitiesdb\\watchlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\ViewModels\\MovieVM.cs",
+              "RelativeDocumentMoniker": "CineMinds\\ViewModels\\MovieVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\ViewModels\\MovieVM.cs",
+              "RelativeToolTip": "CineMinds\\ViewModels\\MovieVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:23:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WatchListController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Controllers\\WatchListController.cs",
+              "RelativeDocumentMoniker": "CineMinds\\Controllers\\WatchListController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Controllers\\WatchListController.cs",
+              "RelativeToolTip": "CineMinds\\Controllers\\WatchListController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:21:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CineMinds\\Controllers\\MovieController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CineMinds\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:21:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CineMinds\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "CineMinds\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T07:20:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "CineMinds\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "CineMinds\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T07:20:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\WatchList\\Index.cshtml",
+              "RelativeDocumentMoniker": "CineMinds\\Views\\WatchList\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\Views\\WatchList\\Index.cshtml",
+              "RelativeToolTip": "CineMinds\\Views\\WatchList\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T07:20:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WatchListService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\WatchListService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\WatchListService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\WatchListService.cs",
+              "RelativeToolTip": "CineMinds.Services\\WatchListService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "CineMinds.Repositories\\MovieDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\MovieDAO.cs",
+              "RelativeToolTip": "CineMinds.Repositories\\MovieDAO.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CineMinds\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CineMinds\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:17:29.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectorDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\DirectorDAO.cs",
+              "RelativeDocumentMoniker": "CineMinds.Repositories\\DirectorDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\DirectorDAO.cs",
+              "RelativeToolTip": "CineMinds.Repositories\\DirectorDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:09.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\MovieService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\MovieService.cs",
+              "RelativeToolTip": "CineMinds.Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:42.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\GenreService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\GenreService.cs",
+              "RelativeToolTip": "CineMinds.Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DirectorService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\DirectorService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\DirectorService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\DirectorService.cs",
+              "RelativeToolTip": "CineMinds.Services\\DirectorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWatchListService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\Interfaces\\IWatchListService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\Interfaces\\IWatchListService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\Interfaces\\IWatchListService.cs",
+              "RelativeToolTip": "CineMinds.Services\\Interfaces\\IWatchListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:36.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "CineMinds.Services\\Interfaces\\IService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "CineMinds.Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:19:34.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WatchListDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\WatchListDAO.cs",
+              "RelativeDocumentMoniker": "CineMinds.Repositories\\WatchListDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\WatchListDAO.cs",
+              "RelativeToolTip": "CineMinds.Repositories\\WatchListDAO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Domains\\EntitiesDB\\Movie.cs",
+              "RelativeDocumentMoniker": "CineMinds.Domains\\EntitiesDB\\Movie.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Domains\\EntitiesDB\\Movie.cs",
+              "RelativeToolTip": "CineMinds.Domains\\EntitiesDB\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:17:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenreDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\GenreDAO.cs",
+              "RelativeDocumentMoniker": "CineMinds.Repositories\\GenreDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\GenreDAO.cs",
+              "RelativeToolTip": "CineMinds.Repositories\\GenreDAO.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:20.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "CineMinds.Repositories\\Interfaces\\IDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "CineMinds.Repositories\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WatchlistItem.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Domains\\EntitiesDB\\WatchlistItem.cs",
+              "RelativeDocumentMoniker": "CineMinds.Domains\\EntitiesDB\\WatchlistItem.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CineMinds\\CineMinds.Domains\\EntitiesDB\\WatchlistItem.cs",
+              "RelativeToolTip": "CineMinds.Domains\\EntitiesDB\\WatchlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:18:03.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

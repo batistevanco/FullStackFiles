@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|z:\\github2de\\full-stack-development\\validators\\validators\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|solutionrelative:validators\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|z:\\github2de\\full-stack-development\\validators\\validators\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|solutionrelative:validators\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|z:\\github2de\\full-stack-development\\validators\\validators\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|solutionrelative:validators\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|z:\\github2de\\full-stack-development\\validators\\validators\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|solutionrelative:validators\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Validators\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Validators\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAA8AAACAEQAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:59:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Validators\\Controllers\\HomeController.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Validators\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAABAmpmZmdkhwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:57:20.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Validators\\Controllers\\DemoController.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Validators\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAEAAADyZ2ZmZiYwwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:57:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Validators\\Models\\ErrorViewModel.cs",
+              "ToolTip": "Z:\\GitHub2de\\Full-Stack-Development\\Validators\\Validators\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Validators\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:56:54.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

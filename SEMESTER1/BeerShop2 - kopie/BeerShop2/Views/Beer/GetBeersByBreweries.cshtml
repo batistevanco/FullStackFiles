@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BeerShop2.ViewModels.BeerVM>
+
+@{
+    ViewData["Title"] = "GetBeersByBreweries";
+}
+
+<h1>GetBeersByBreweries</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetBeersByBreweries">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <select name="brouwerID" id="brouwerID"
+                    asp-items="ViewBag.lstBrouwer">
+                    <option>Please select</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Alcohol)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Image)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BreweryName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.VarietyName)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Alcohol)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Image)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BreweryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VarietyName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                        
+                    </td>
+                </tr>
+            }
+    </table>
+}

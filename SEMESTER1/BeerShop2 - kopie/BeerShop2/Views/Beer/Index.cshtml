@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BeerShop2.ViewModels.BeerVM>
+
+<h2>Beers</h2>
+
+<table id="beerTable" class="display">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Alcohol %</th>
+            <th>Brewery</th>
+            <th>Variety</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var b in Model)
+        {
+            <tr>
+                <td>@b.Name</td>
+                <td>@b.Alcohol</td>
+                <td>@b.BreweryName</td>
+                <td>@b.VarietyName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#beerTable').DataTable({
+                // Zo hou je je EIGEN sort-knoppen
+                ordering: true,   // kolom-sortering UIT
+                paging: true,
+                searching: true
+            });
+        });
+    </script>
+}

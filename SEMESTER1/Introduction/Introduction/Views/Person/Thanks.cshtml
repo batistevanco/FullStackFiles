@@ -1,0 +1,54 @@
+﻿@model Introduction.ViewModels.RegisterVM
+
+@{
+    ViewData["Title"] = "Thanks";
+}
+
+<h1>Bedankt voor jouw registratie</h1>
+
+<div>
+    <h4>RegisterVM</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Leeftijd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Leeftijd)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Hero)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Hero)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

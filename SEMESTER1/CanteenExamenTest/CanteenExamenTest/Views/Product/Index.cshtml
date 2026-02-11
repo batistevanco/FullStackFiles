@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CanteenExamenTest.ViewModels.ProductVM>
+
+@{
+    ViewData["Title"] = "Productcatalogus";
+}
+
+<h1>Productcatalogus</h1>
+
+<table id="productsTable" class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Naam</th>
+            <th>Categorie</th>
+            <th>Prijs (€)</th>
+            <th>Vegetarisch</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.CategoryName</td>
+                <td>@p.Price.ToString("0.00")</td>
+                <td>@(p.IsVegetarian ? "Ja" : "Nee")</td>
+                <td>
+                    <form asp-controller="Product"
+                          asp-action="AddToCart"
+                          method="post"
+                          class="d-inline">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="productId" value="@p.ProductId" />
+                        <button type="submit" class="btn btn-success btn-sm">
+                            Toevoegen
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <!-- DataTables CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#productsTable').DataTable({
+                language: {
+                    search: "Zoeken:",
+                    lengthMenu: "Toon _MENU_ producten",
+                    info: "Toon _START_ tot _END_ van _TOTAL_ producten",
+                    paginate: {
+                        previous: "Vorige",
+                        next: "Volgende"
+                    }
+                }
+            });
+        });
+    </script>
+}

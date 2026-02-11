@@ -1,0 +1,109 @@
+﻿@model vancoillie_batiste.ViewModels.SongByGenreVM
+
+@{
+    ViewData["Title"] = "GetSongsByGenreVM";
+}
+
+<h1>Zoeken op basis van een type</h1>
+
+
+<hr />
+<div class="row">
+@*     tesktvak waarin getypt kan worden
+ *@    
+    <div>
+          
+    </div>
+    
+    <div class="col-md-4">
+        <form asp-action="GetSongsByGenreVM">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            
+            <div class="form-group">
+                <select asp-for="GenreNr" asp-items="@Model.Genres">
+                    <option>Select a Songtype</option>
+                </select>
+
+            </div>
+            @* <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div> *@
+        </form>
+    </div>
+</div>
+
+
+
+
+
+@if (Model.Liedjes!= null)
+{
+    <div class="row">
+        @for (int i = 0; i < 4; i++)
+        {
+            var item = Model.Liedjes.ElementAtOrDefault(i);
+            @await Html.PartialAsync("DisplayTemplates/_tileView", item)
+        }
+    
+    </div>
+}
+
+<div class="row">
+    <a href="">Meer</a>
+</div>
+
+@* @if (Model.Genres != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Titel
+                </th>
+                <th>
+                    Genre
+                </th>
+                <th>
+                    Kostprijs
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Liedjes != null)
+            {
+                @foreach (var item in Model.Liedjes)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Titel)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Kostprijs)
+                    </td>
+
+                </tr>
+            }
+            }
+            
+        </tbody>
+    </table>
+}
+ *@
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $("#GenreNr").on("change", () => {
+            $("form").trigger("submit");
+        });
+    </script>
+
+}
+

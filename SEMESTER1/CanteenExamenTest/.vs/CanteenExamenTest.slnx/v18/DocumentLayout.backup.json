@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\viewmodels\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\viewmodels\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5257BFB0-9139-4257-BA38-45040372FA10}|Canteen.Domain\\Canteen.Domain.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.domain\\entitiesdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5257BFB0-9139-4257-BA38-45040372FA10}|Canteen.Domain\\Canteen.Domain.csproj|solutionrelative:canteen.domain\\entitiesdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\interfaces\\iorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\interfaces\\iorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\interfaces\\icartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\interfaces\\icartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteenexamentest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5295D7-E17A-4242-8316-3D4DA3F7BD8B}|CanteenExamenTest\\CanteenExamenTest.csproj|solutionrelative:canteenexamentest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.services\\canteen.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6DC1B89-69BA-4657-88E6-DBDE3403849F}|Canteen.Services\\Canteen.Services.csproj|solutionrelative:canteen.services\\canteen.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|y:\\github2de\\full-stack-development\\canteenexamentest\\canteen.repository\\canteen.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D90320B2-C239-4145-97EF-DDACC6172584}|Canteen.Repository\\Canteen.Repository.csproj|solutionrelative:canteen.repository\\canteen.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Domain\\DataDB\\CanteenDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Canteen.Domain\\DataDB\\CanteenDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Views\\Order\\Details.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "CanteenExamenTest\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAA0AAACAAgAAAIAswCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T17:28:01.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Views\\Order\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CanteenExamenTest\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAsAAABANDMzMzMuwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T17:26:47.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CanteenExamenTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T17:24:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Cart\\Index.cshtml*",
+              "RelativeToolTip": "CanteenExamenTest\\Views\\Cart\\Index.cshtml*",
+              "ViewState": "AgIAACAAAAAAGgAAAAD4vz4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T17:23:31.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Controllers\\OrderController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CanteenExamenTest\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABoAAABAOzMzM9M+wDMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:22:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Views\\Product\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CanteenExamenTest\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T17:17:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Controllers\\CartController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CanteenExamenTest\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAIAAAAEAAAAAAAlwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:10:06.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItemVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\CartItemVM.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\ViewModels\\CartItemVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\CartItemVM.cs",
+              "RelativeToolTip": "CanteenExamenTest\\ViewModels\\CartItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:09:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Controllers\\ProductController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CanteenExamenTest\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAACANTMzM7MRwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:05:14.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\OrderService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\OrderService.cs",
+              "RelativeToolTip": "Canteen.Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAACA5szMzEwkwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:53:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Canteen.Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:31:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\ViewModels\\ProductVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "CanteenExamenTest\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAQAAAAAcGZmZmb0vxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:08:39.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\ViewModels\\OrderVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "CanteenExamenTest\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:08:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEditVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\ProductEditVM.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\ViewModels\\ProductEditVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\ViewModels\\ProductEditVM.cs",
+              "RelativeToolTip": "CanteenExamenTest\\ViewModels\\ProductEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:19:05.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CanteenExamenTest\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:04:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\OrderDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\OrderDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\OrderDAO.cs",
+              "ViewState": "AgIAABgAAAAAUDMzMzMIwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:27:59.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\CartService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\CartService.cs",
+              "RelativeToolTip": "Canteen.Services\\CartService.cs",
+              "ViewState": "AgIAAAcAAADAn5mZmVkwwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:53:09.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "Canteen.Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:30:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Domain\\EntitiesDB\\Product.cs",
+              "RelativeDocumentMoniker": "Canteen.Domain\\EntitiesDB\\Product.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Domain\\EntitiesDB\\Product.cs",
+              "RelativeToolTip": "Canteen.Domain\\EntitiesDB\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAfmZmZmYEwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:21:37.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Canteen.Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:30:55.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\Interfaces\\IService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Canteen.Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:29:08.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IOrderDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\Interfaces\\IOrderDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IOrderDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\Interfaces\\IOrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:23:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\Interfaces\\IDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:22:20.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\CartDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\CartDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\CartDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\CartDAO.cs",
+              "ViewState": "AgIAACQAAAAA0szMzIwwwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:26:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Canteen.Services\\ProductService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\ProductService.cs",
+              "RelativeToolTip": "Canteen.Services\\ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:44:36.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IProductDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\Interfaces\\IProductDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\IProductDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\Interfaces\\IProductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:22:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICartDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\ICartDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\Interfaces\\ICartDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Interfaces\\ICartDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\Interfaces\\ICartDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:22:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Program.cs",
+              "RelativeDocumentMoniker": "CanteenExamenTest\\Program.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\CanteenExamenTest\\Program.cs",
+              "RelativeToolTip": "CanteenExamenTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:19:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Canteen.Services",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Canteen.Services.csproj",
+              "RelativeDocumentMoniker": "Canteen.Services\\Canteen.Services.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Services\\Canteen.Services.csproj",
+              "RelativeToolTip": "Canteen.Services\\Canteen.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T16:20:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "Canteen.Repository\\ProductDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\ProductDAO.cs",
+              "RelativeToolTip": "Canteen.Repository\\ProductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:24:41.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Canteen.Repository",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Canteen.Repository.csproj",
+              "RelativeDocumentMoniker": "Canteen.Repository\\Canteen.Repository.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Repository\\Canteen.Repository.csproj",
+              "RelativeToolTip": "Canteen.Repository\\Canteen.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T16:21:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CanteenDbContext.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Domain\\DataDB\\CanteenDbContext.cs",
+              "RelativeDocumentMoniker": "Canteen.Domain\\DataDB\\CanteenDbContext.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\CanteenExamenTest\\Canteen.Domain\\DataDB\\CanteenDbContext.cs",
+              "RelativeToolTip": "Canteen.Domain\\DataDB\\CanteenDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:18:58.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

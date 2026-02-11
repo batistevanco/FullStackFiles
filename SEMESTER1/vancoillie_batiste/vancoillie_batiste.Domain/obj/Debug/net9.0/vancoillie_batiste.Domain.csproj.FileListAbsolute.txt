@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\bin\Debug\net9.0\vancoillie_batiste.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\bin\Debug\net9.0\vancoillie_batiste.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\bin\Debug\net9.0\vancoillie_batiste.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\bin\Debug\net9.0\vancoillie_batiste.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\refint\vancoillie_batiste.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\vancoillie_batiste.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\vancoillie_batiste\vancoillie_batiste.Domain\obj\Debug\net9.0\ref\vancoillie_batiste.Domain.dll

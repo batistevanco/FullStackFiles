@@ -1,0 +1,58 @@
+﻿@model IEnumerable<CineMinds.ViewModels.MovieVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@if(Model != null){
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GenreName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DirectorFullName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GenreName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DirectorFullName)
+            </td>
+            <td>
+                <form asp-controller="WatchList" asp-action="Add" method="post" style="display:inline;">
+                      <input type="hidden" name="movieId" value="@item.MovieId" />
+                      <button type="submit" class="btn btn-primary btn-sm">+ Watchlist</button>
+                </form>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.MovieId}) |  
+                @* MovieId verwijst nu naar de parameter MovieId in je WatchListController *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}

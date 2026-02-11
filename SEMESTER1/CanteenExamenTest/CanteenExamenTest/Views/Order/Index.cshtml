@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Canteen.Domain.EntitiesDB.Order>
+
+@{
+    ViewData["Title"] = "Bestellingen";
+}
+
+<h1>Bestellingen</h1>
+
+@if (!Model.Any())
+{
+    <p>Er zijn nog geen bestellingen geplaatst.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Bestelnummer</th>
+                <th>Klant</th>
+                <th>Datum</th>
+                <th>Totaal (€)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.CustomerName</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.TotalPrice.ToString("0.00")</td>
+                    <td>
+                        <a asp-action="Details"
+                           asp-route-id="@order.OrderId"
+                           class="btn btn-primary btn-sm">
+                            Details
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

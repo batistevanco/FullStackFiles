@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\person\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\person\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\person\\registernew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\person\\registernew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\person\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\person\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|z:\\github\\full-stack-development\\introduction\\introduction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C776EF2B-17E1-4D58-BA9F-B20B3B567F5E}|Introduction\\Introduction.csproj|solutionrelative:introduction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Person\\Thanks.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Thanks.cshtml*",
+              "RelativeToolTip": "Introduction\\Views\\Person\\Thanks.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T07:34:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterNew.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\RegisterNew.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Person\\RegisterNew.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\RegisterNew.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\Person\\RegisterNew.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T09:55:06.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Introduction\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Introduction\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAkAAAAAWJqZmZnlvxgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:42:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Register.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Person\\Register.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Register.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\Person\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T09:22:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T09:08:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\_ViewStart.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T08:44:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T08:38:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "Introduction\\Views\\Person\\Index.cshtml",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "Introduction\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T08:33:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\PersonController.cs",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAACwAAAAADwAAAAD+vzcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:32:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Introduction\\Controllers\\HomeController.cs",
+              "ToolTip": "Z:\\GitHub\\Full-Stack-Development\\Introduction\\Introduction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Introduction\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:04:07.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

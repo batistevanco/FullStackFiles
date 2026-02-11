@@ -1,0 +1,45 @@
+﻿@model Calculator.ViewModels.CalcVM
+
+@{
+    ViewData["Title"] = "Calculate";
+    
+}
+
+<h1>Calculate</h1>
+
+<h4>CalcVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Calculate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Getal1" class="control-label"></label>
+                <input asp-for="Getal1" class="form-control" />
+                <span asp-validation-for="Getal1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Getal2" class="control-label"></label>
+                <input asp-for="Getal2" class="form-control" />
+                <span asp-validation-for="Getal2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Resultaat" class="control-label"></label>
+                <span></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<p>Total: @ViewBag.Resultaat</p>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

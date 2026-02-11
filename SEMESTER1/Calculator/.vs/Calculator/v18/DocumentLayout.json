@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\controllers\\calculatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\calculatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\views\\calculate\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\calculate\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\viewmodels\\calcvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\calcvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\views\\calculate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\calculate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|y:\\github2de\\full-stack-development\\calculator\\calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC99760F-F801-4896-AC36-B4E1E67375CB}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculate.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T08:59:16.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Calculate\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Index.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Calculate\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T08:59:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Controllers\\CalculateController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\CalculateController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Controllers\\CalculateController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\CalculateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:59:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\HomeController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:59:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\ViewModels\\CalcVM.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\CalcVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\ViewModels\\CalcVM.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\CalcVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:59:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T08:59:16.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAABAnZmZmZkewBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T08:59:16.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

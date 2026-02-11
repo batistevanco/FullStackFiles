@@ -1,0 +1,15 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables@1.10.21",
+      "destination": "wwwroot/datatables/",
+      "files": [
+        "js/jquery.dataTables.min.js",
+        "css/dataTables.bootstrap.min.css",
+        "js/dataTables.bootstrap.min.js"
+      ]
+    }
+  ]
+}

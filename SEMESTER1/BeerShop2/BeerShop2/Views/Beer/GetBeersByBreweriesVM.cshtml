@@ -1,0 +1,90 @@
+﻿@model BeerShop2.ViewModels.BreweryBearsVM
+
+@{
+    ViewData["Title"] = "GetBeersByBreweriesVM";
+}
+
+<h1>GetBeersByBreweriesVM</h1>
+
+<h4>BreweryBeersVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="GetBeersByBreweriesVM">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <select asp-for="BreweryNumber" asp-items="@Model.Breweries">
+                    <option>Please select one</option>
+                </select>
+
+            </div>
+            @* <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div> *@
+        </form>
+    </div>
+</div>
+
+
+@if (Model.Beers != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Naam
+                </th>
+                <th>
+                    BrouwerNaam
+                </th>
+                <th>
+                    SoortNaam
+                </th>
+                <th>
+                    Alcohol
+                </th>
+                <th>
+                    Image
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Beers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BreweryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VarietyName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Alcohol)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Image)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $("#BreweryNumber").on("change", () => {
+            $("form").trigger("submit");
+        });
+    </script>
+
+}

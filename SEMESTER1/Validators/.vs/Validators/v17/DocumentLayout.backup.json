@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\viewmodels\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD0257C-20FF-4807-B57F-690E858DBCEF}|Validators\\Validators.csproj|\\\\mac\\home\\downloads\\full-stack-development-class-main\\validators\\validators\\views\\demo\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Validators\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Validators\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAASDMzMzPbvxAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T08:49:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Validators\\Controllers\\HomeController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Validators\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:21:33.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Validators\\Controllers\\CustomerController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Validators\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:21:12.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\ViewModels\\CreateVM.cs",
+              "RelativeDocumentMoniker": "Validators\\ViewModels\\CreateVM.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\ViewModels\\CreateVM.cs",
+              "RelativeToolTip": "Validators\\ViewModels\\CreateVM.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAE0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:18:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Demo\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Validators\\Views\\Demo\\Thanks.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Demo\\Thanks.cshtml",
+              "RelativeToolTip": "Validators\\Views\\Demo\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T08:01:46.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Validators\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "Validators\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T07:41:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Validators\\Controllers\\DemoController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Validators\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:40:09.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Validators\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\Full-Stack-Development-Class-main\\Validators\\Validators\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Validators\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAMAAADAzszMzAwswBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:35:00.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

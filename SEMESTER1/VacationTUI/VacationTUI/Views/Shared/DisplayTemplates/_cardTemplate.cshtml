@@ -1,0 +1,50 @@
+﻿@model VacationTUI.ViewModels.HotelVM
+
+
+@if (Model != null)
+{
+    <div class="col-md-6 mb-4">
+        <div class="hotel-card card border-0 shadow-sm h-100">
+
+            <div class="card-body">
+
+                <!-- Titel + sterren -->
+                <div class="d-flex justify-content-between align-items-start mb-2">
+                    <h5 class="card-title mb-0 fw-bold">
+                        @Model.NameHotel
+                    </h5>
+
+                    <div class="hotel-stars d-flex">
+                        @for (int i = 0; i < Model.Stars; i++)
+                        {
+                            <img src="~/star.jpg" alt="star" class="star-icon me-1" />
+                        }
+                    </div>
+                </div>
+
+                <!-- Foto met score badge -->
+                <div class="hotel-image-wrapper mb-3">
+                    <img src="~/@Model.Photo"
+                         alt="@Model.NameHotel"
+                         class="img-fluid rounded-4 w-100 hotel-image" />
+
+                    <div class="hotel-score-badge">
+                        @Model.Score.ToString("0.0")
+                    </div>
+                </div>
+
+                <!-- Buttons -->
+                <div class="mb-2">
+                    <button type="button" class="btn btn-sm btn-secondary me-2">Foto's</button>
+                    <button type="button" class="btn btn-sm btn-secondary me-2">Bewaren</button>
+                    <button type="button" class="btn btn-sm btn-secondary">Video</button>
+                </div>
+
+                <!-- Benefit / beschrijving -->
+                <p class="mb-0 text-muted">- @Model.Benefit</p>
+
+            </div>
+
+        </div>
+    </div>
+}

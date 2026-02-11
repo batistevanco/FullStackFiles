@@ -1,0 +1,12 @@
+﻿@model IEnumerable<BeerShop2.ViewModels.HotelVM>
+
+<div class="container my-4">
+    <h2 class="mb-4">List Hotels</h2>
+
+    <div class="row">
+        @foreach (var hotel in Model)
+        {
+            @Html.Partial("DisplayTemplates/_cardTemplate", hotel)
+        }
+    </div>
+</div>

@@ -1,0 +1,36 @@
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.deps.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\refint\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\ref\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop.7AFE1E52.Up2Date
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.deps.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\bin\Debug\net9.0\BeerShop2.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop.7AFE1E52.Up2Date
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\refint\BeerShop2.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\BeerShop2.Repositories.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2 - kopie\BeerShop2.Repositories\obj\Debug\net9.0\ref\BeerShop2.Repositories.dll

@@ -1,0 +1,48 @@
+﻿@model vancoillie_batiste.ViewModels.RegisterVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h4>RegisterVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GSM" class="control-label"></label>
+                <input asp-for="GSM" class="form-control" />
+                <span asp-validation-for="GSM" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Passwoord" class="control-label"></label>
+                <input asp-for="Passwoord" class="form-control" />
+                <span asp-validation-for="Passwoord" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

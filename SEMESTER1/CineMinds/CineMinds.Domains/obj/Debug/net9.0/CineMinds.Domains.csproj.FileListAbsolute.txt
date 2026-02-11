@@ -1,0 +1,29 @@
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.deps.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.runtimeconfig.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.csproj.AssemblyReference.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.AssemblyInfoInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.AssemblyInfo.cs
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.csproj.CoreCompileInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\refint\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.genruntimeconfig.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds.Domains\obj\Debug\net9.0\ref\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.deps.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\bin\Debug\net9.0\CineMinds.Domains.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\refint\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\CineMinds.Domains.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds.Domains\obj\Debug\net9.0\ref\CineMinds.Domains.dll

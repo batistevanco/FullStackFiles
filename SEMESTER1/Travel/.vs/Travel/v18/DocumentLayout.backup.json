@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\travel\\indexwithdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\travel\\indexwithdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|y:\\github2de\\full-stack-development\\travel\\travel.services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|y:\\github2de\\full-stack-development\\travel\\travel.services\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|y:\\github2de\\full-stack-development\\travel\\travel.services\\integration\\countryapi\\dto\\countryapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\integration\\countryapi\\dto\\countryapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\wwwroot\\flatpickr\\flatpickr.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\wwwroot\\flatpickr\\flatpickr.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\viewmodels\\travelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\viewmodels\\travelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|y:\\github2de\\full-stack-development\\travel\\travel\\travel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\travel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T09:34:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-10T08:44:27.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Travel\\appsettings.Development.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\appsettings.Development.json",
+              "RelativeToolTip": "Travel\\appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T15:05:34.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountryApiDto.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "RelativeToolTip": "Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITravelService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\Interfaces\\ITravelService.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\Interfaces\\ITravelService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\Interfaces\\ITravelService.cs",
+              "RelativeToolTip": "Travel.Services\\Interfaces\\ITravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TravelService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\TravelService.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\TravelService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel.Services\\TravelService.cs",
+              "RelativeToolTip": "Travel.Services\\TravelService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\ViewModels\\CountryVM.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewModels\\CountryVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\ViewModels\\CountryVM.cs",
+              "RelativeToolTip": "Travel\\ViewModels\\CountryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Travel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Travel\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Travel\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Travel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:00:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexWithDatePicker.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:00:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\appsettings.json",
+              "RelativeDocumentMoniker": "Travel\\appsettings.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\appsettings.json",
+              "RelativeToolTip": "Travel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T15:00:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Travel\\Controllers\\CountryController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Travel\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Country\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Country\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Country\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Country\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:00:06.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "flatpickr.min.css",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\wwwroot\\flatpickr\\flatpickr.min.css",
+              "RelativeDocumentMoniker": "Travel\\wwwroot\\flatpickr\\flatpickr.min.css",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\wwwroot\\flatpickr\\flatpickr.min.css",
+              "RelativeToolTip": "Travel\\wwwroot\\flatpickr\\flatpickr.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-10T08:25:44.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Travel\\Properties\\launchSettings.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Travel\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T15:02:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TravelVM.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\ViewModels\\TravelVM.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewModels\\TravelVM.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\ViewModels\\TravelVM.cs",
+              "RelativeToolTip": "Travel\\ViewModels\\TravelVM.cs",
+              "ViewState": "AgIAABAAAABgMzMzMzMqwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Program.cs",
+              "RelativeDocumentMoniker": "Travel\\Program.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Program.cs",
+              "RelativeToolTip": "Travel\\Program.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZiYgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\_ViewStart.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Travel\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:03:43.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\_ViewImports.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Travel\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:03:42.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "Travel\\Controllers\\TravelController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Controllers\\TravelController.cs",
+              "RelativeToolTip": "Travel\\Controllers\\TravelController.cs",
+              "ViewState": "AgIAACEAAAAAMzMzM7MbwC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:00:06.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T15:00:06.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Travel.csproj",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Travel.csproj",
+              "RelativeDocumentMoniker": "Travel\\Travel.csproj",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\Travel\\Travel\\Travel.csproj",
+              "RelativeToolTip": "Travel\\Travel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T15:00:06.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

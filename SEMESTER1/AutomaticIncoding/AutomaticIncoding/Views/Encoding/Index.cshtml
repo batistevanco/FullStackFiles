@@ -1,0 +1,42 @@
+﻿@model AutomaticIncoding.ViewModels.CommentPageVM
+
+<h1>Comments</h1>
+
+<form asp-action="Index" method="post">
+    <div class="form-group mb-2">
+        <label asp-for="NewComment.Name"></label>
+        <input asp-for="NewComment.Name" class="form-control" />
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="NewComment.Message"></label>
+        <textarea asp-for="NewComment.Message" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" value="Post" class="btn btn-primary mt-2">Post</button>
+</form>
+
+<hr />
+
+<h2>Posted comments</h2>
+
+@if (Model.PostedComments != null && Model.PostedComments.Count > 0)
+{
+    <ul>
+        @for (int i = 0; i < Model.PostedComments.Count; i++)
+        {
+            <li>
+                <strong>@Model.PostedComments[i].Name</strong>:
+                @Model.PostedComments[i].Message
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Geen reacties.</p>
+}
+
+
+
+

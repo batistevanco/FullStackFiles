@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\views\\personsorting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\personsorting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\controllers\\personsortingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\personsortingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\controllers\\personautomappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\personautomappercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\views\\personautomapper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\views\\personautomapper\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\controllers\\persondbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\controllers\\persondbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83814EC8-37C7-4AC4-9094-99CA16EF3B56}|PartialView\\PartialView.csproj|solutionrelative:partialview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.domein\\datadb\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A854A5-CB51-4C2D-9C04-50111DBAC9AD}|PartialView.Domein\\PartialView.Domein.csproj|solutionrelative:partialview.domein\\datadb\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.services\\persondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\persondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.services\\interfaces\\ipersondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\interfaces\\ipersondbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.repositories\\persondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\persondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.repositories\\interfaces\\ipersondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877449ED-AF32-4B59-A86A-7AD202A7A8CC}|PartialView.Repositories\\PartialView.Repositories.csproj|solutionrelative:partialview.repositories\\interfaces\\ipersondbdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|y:\\github2de\\full-stack-development\\partialviewwithdb\\partialview\\partialview.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F7C0F7-13E1-4D95-9C33-B08C40B9AC7A}|PartialView.Services\\PartialView.Services.csproj|solutionrelative:partialview.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\appsettings.json",
+              "RelativeDocumentMoniker": "PartialView\\appsettings.json",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\appsettings.json",
+              "RelativeToolTip": "PartialView\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T09:59:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\PersonSorting\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T08:27:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T08:26:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonSortingController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonSortingController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonSortingController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonSortingController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonSortingController.cs",
+              "ViewState": "AgIAAAMAAAAARDMzMzPrvycAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:59:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "RelativeToolTip": "PartialView\\Views\\PersonAutoMapper\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T10:48:41.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "PartialView\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:45:25.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonDbController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonDbController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonDbController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonDbController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonDbController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:40:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonAutoMapperController.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "RelativeDocumentMoniker": "PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "RelativeToolTip": "PartialView\\Controllers\\PersonAutoMapperController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:40:28.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "RelativeToolTip": "PartialView.Domein\\DataDB\\StudentDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:38:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPersonDbService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "RelativeToolTip": "PartialView.Services\\Interfaces\\IPersonDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:36:57.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\Interfaces\\IPersonService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "PartialView.Services\\Interfaces\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:36:18.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonDbService.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\PersonDbService.cs",
+              "RelativeDocumentMoniker": "PartialView.Services\\PersonDbService.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Services\\PersonDbService.cs",
+              "RelativeToolTip": "PartialView.Services\\PersonDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:36:14.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonDBDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Repositories\\PersonDBDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\PersonDBDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Repositories\\PersonDBDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\PersonDBDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:36:03.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPersonDBDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "RelativeDocumentMoniker": "PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "RelativeToolTip": "PartialView.Repositories\\Interfaces\\IPersonDBDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:35:52.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Program.cs",
+              "RelativeDocumentMoniker": "PartialView\\Program.cs",
+              "ToolTip": "Y:\\GitHub2de\\Full-Stack-Development\\PartialViewWithDB\\PartialView\\PartialView\\Program.cs",
+              "RelativeToolTip": "PartialView\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAcDMzMzPbvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:30:39.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

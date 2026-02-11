@@ -1,0 +1,718 @@
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\appsettings.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.staticwebassets.runtime.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.staticwebassets.endpoints.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.exe
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.deps.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.runtimeconfig.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Domains.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Repositories.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Services.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Domains.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Services.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Repositories.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.AssemblyReference.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.AssemblyInfoInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.AssemblyInfo.cs
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.CoreCompileInputs.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.RazorAssemblyInfo.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.RazorAssemblyInfo.cs
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\bundle\CineMinds.styles.css
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\projectbundle\CineMinds.bundle.scp.css
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\3np9mkueyy-b9sayid5wm.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\fo0noq03g2-61n19gt1b8.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\0al5kqoy7y-xtxxf3hu2r.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ufypg7dtr3-bqjiyaj88i.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\p0vp9vkrov-c2jlpeoesf.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\dshg05da6z-erw9l3u2r3.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\m6i4v1vr42-aexeepp0ev.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\553z0grgxy-d7shbmvgxk.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\qb9m3xh35k-ausgxo2sd3.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\opwsggbrji-k8d9w2qqmf.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\avpcgf8xa6-cosvhxvwiu.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\5vpnxl2a7z-ub07r2b239.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\tdelw6vstp-fvhpjtyr6v.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\va3cjnm3em-b7pk76d08c.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\sp6cs6qysp-fsbi9cje9m.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\am3lgaowoh-rzd6atqjts.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\9ihhwkdt3d-ee0r1s7dh0.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\kx6t4dele6-dxx9fxp4il.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\lporv7rujd-jd9uben2k1.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zzl5arviow-khv3u5hwcm.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\33nc05jfp6-r4e9w2rdcm.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\vmb1ourluj-lcd1t2u6c8.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\v5435edq4p-c2oey78nd0.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\4nrg3wm70c-tdbxkamptv.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zv9vnuriyn-j5mq2jizvt.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\mq57wvl5j4-06098lyss8.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\8m6qitr2ba-nvvlpmu67g.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\mhd8bhv538-s35ty4nyc5.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\5p5i93i9oi-pj5nd1wqec.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\9r6xmdqowk-46ein0sx1k.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\sjs01tugoe-v0zj4ognzu.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\8cg09ok04e-37tfw0ft22.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\vsqnj9rmk2-hrwsygsryq.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\wve39i2j3r-pk9g2wxc8p.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\bzjma9e4b1-ft3s53vfgj.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\5mhf5lx8c7-6cfz1n2cew.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\q455532pre-6pdc2jztkx.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\vt5zdxggpz-493y06b0oq.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ulx7huosjw-iovd86k7lj.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\xw5h2akckf-vr1egmr9el.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\jfeoqn1xbe-kbrnm935zg.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\jcjg0icdsv-jj8uyg4cgr.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\pcy3zzwtfg-y7v9cxd14o.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\2imlsw4smt-notf2xhcfb.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ed0zb5rgdn-h1s4sie4z3.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\42btaeykvz-63fj8s7r0e.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\lp0trsznsw-0j3bgjxly4.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\1eolawwa5o-47otxtyo56.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\wr0s5vmh9j-4v8eqarkd7.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\0xfikwqew7-356vix0kms.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\gwqv2o99i8-83jwlth58m.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\mvr9r5czzj-mrlpezrjn3.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zebnaxqcio-lzl9nlhx6b.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\000re8jj4j-ag7o75518u.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\653fw2zpom-x0q3zqp4vz.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\4p6vwoufju-0i3buxo5is.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\x0vuqh0dwd-o1o13a6vjx.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\smatsz4v4s-ttgo8qnofa.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\v015l1xwpv-2z0ns9nrw6.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\tnma1ja8vw-muycvpuwrr.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\wx0kpspstg-87fc7y1x7t.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ecacxy9rmr-mlv21k5csn.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zuc2a88n57-00tf8l8t1d.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\compressed\uust3ftedv-00tf8l8t1d.gz
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.Up2Date
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\refint\CineMinds.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.pdb
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.genruntimeconfig.cache
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\obj\Debug\net9.0\ref\CineMinds.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Mathisse\Documents\Toegepaste Informatica\Full_Stack_Dev\Oefeningen\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\appsettings.Development.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\appsettings.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.staticwebassets.runtime.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.staticwebassets.endpoints.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.exe
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.deps.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\AutoMapper.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Azure.Core.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Azure.Identity.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Humanizer.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Mono.TextTemplating.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\Newtonsoft.Json.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Common.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Configuration.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Frameworks.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.LibraryModel.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Packaging.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.ProjectModel.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Protocol.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\NuGet.Versioning.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.ClientModel.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.CodeDom.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Convention.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Hosting.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.Runtime.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Composition.TypedParts.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Memory.Data.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Resources.Extensions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Runtime.Caching.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Security.Permissions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\System.Windows.Extensions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\af\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ar\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\az\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\bg\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\da\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\el\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fa\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\he\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\hr\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\hu\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\hy\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\id\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\is\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ku\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\lv\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\mt\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\nb\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\nl\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ro\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\sk\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\sl\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\sr\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\sv\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\uk\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\vi\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Domains.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Services.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Domains.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Services.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\bin\Debug\net9.0\CineMinds.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\rpswa.dswa.cache.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.MvcApplicationPartsAssemblyInfo.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.RazorAssemblyInfo.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.RazorAssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\bundle\CineMinds.styles.css
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\scopedcss\projectbundle\CineMinds.bundle.scp.css
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\93rg2k7n39-{0}-b9sayid5wm-b9sayid5wm.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\bhdidtrghj-{0}-61n19gt1b8-61n19gt1b8.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\tbb0o4jkrs-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\eb4f76rfup-{0}-bqjiyaj88i-bqjiyaj88i.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\bynspqnank-{0}-c2jlpeoesf-c2jlpeoesf.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\wdck9x04ra-{0}-erw9l3u2r3-erw9l3u2r3.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\nhx2dkmtsa-{0}-aexeepp0ev-aexeepp0ev.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\rljvkf06z3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ubfhkqnez4-{0}-ausgxo2sd3-ausgxo2sd3.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\yta6kytydw-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\838dnl4v21-{0}-cosvhxvwiu-cosvhxvwiu.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\80qv7v7f6x-{0}-ub07r2b239-ub07r2b239.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\oib6798scp-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\2xbyk69psj-{0}-b7pk76d08c-b7pk76d08c.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\fy716s7wvv-{0}-fsbi9cje9m-fsbi9cje9m.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\nrb5s6fytg-{0}-rzd6atqjts-rzd6atqjts.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\9xgmlcxecs-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\lqds27wdr7-{0}-dxx9fxp4il-dxx9fxp4il.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\hchciqvkp1-{0}-jd9uben2k1-jd9uben2k1.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\r6vnayxb4r-{0}-khv3u5hwcm-khv3u5hwcm.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zn61vxluz0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\653bmxqbe2-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\lsz7t2e85u-{0}-c2oey78nd0-c2oey78nd0.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\0cf6rflwgj-{0}-tdbxkamptv-tdbxkamptv.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\qdycvk115k-{0}-j5mq2jizvt-j5mq2jizvt.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\iz107ajihr-{0}-06098lyss8-06098lyss8.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\otxqbbs2pf-{0}-nvvlpmu67g-nvvlpmu67g.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\pvpgo7aquv-{0}-s35ty4nyc5-s35ty4nyc5.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\z3ll27xd49-{0}-pj5nd1wqec-pj5nd1wqec.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\k6ojgq4z73-{0}-46ein0sx1k-46ein0sx1k.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\3s93jwro7x-{0}-v0zj4ognzu-v0zj4ognzu.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\m2q4t8q7nn-{0}-37tfw0ft22-37tfw0ft22.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\08yqmm95sa-{0}-hrwsygsryq-hrwsygsryq.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\2hgto3d1pq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\rynl0vf9qe-{0}-ft3s53vfgj-ft3s53vfgj.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\4t10lg8coz-{0}-6cfz1n2cew-6cfz1n2cew.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ay6usubyec-{0}-6pdc2jztkx-6pdc2jztkx.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\x4ebmhi5ru-{0}-493y06b0oq-493y06b0oq.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\pipgpq13g2-{0}-iovd86k7lj-iovd86k7lj.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\6aun3wsi3v-{0}-vr1egmr9el-vr1egmr9el.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\4a12wfnix3-{0}-kbrnm935zg-kbrnm935zg.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\8fo7g0sfn2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ujn57qre37-{0}-y7v9cxd14o-y7v9cxd14o.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\2nmiym7lts-{0}-notf2xhcfb-notf2xhcfb.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\r8j6sls175-{0}-h1s4sie4z3-h1s4sie4z3.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\ozth834u66-{0}-63fj8s7r0e-63fj8s7r0e.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\69l11s230h-{0}-0j3bgjxly4-0j3bgjxly4.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\nkj0z5hdeo-{0}-47otxtyo56-47otxtyo56.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\s15ts1mr6g-{0}-4v8eqarkd7-4v8eqarkd7.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\atnyesxvha-{0}-356vix0kms-356vix0kms.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\x19en4othr-{0}-83jwlth58m-83jwlth58m.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\s1yokdcr0f-{0}-mrlpezrjn3-mrlpezrjn3.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\zaan3e79jx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\7kptx7q4sn-{0}-ag7o75518u-ag7o75518u.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\y2w22al020-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\7297zpp2jg-{0}-0i3buxo5is-0i3buxo5is.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\nque26o45w-{0}-o1o13a6vjx-o1o13a6vjx.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\4vpt1gljaw-{0}-ttgo8qnofa-ttgo8qnofa.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\7mfu3rimpd-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\rrl4ehb9j9-{0}-muycvpuwrr-muycvpuwrr.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\l0wpamih14-{0}-87fc7y1x7t-87fc7y1x7t.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\wred68g4fd-{0}-mlv21k5csn-mlv21k5csn.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\z1chdzi7d7-{0}-vyq51gkqr5-vyq51gkqr5.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\compressed\q1m25ic0ku-{0}-vyq51gkqr5-vyq51gkqr5.gz
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.json.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.development.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\swae.build.ex.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.csproj.Up2Date
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\refint\CineMinds.dll
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.pdb
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\CineMinds.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\CineMinds\CineMinds\obj\Debug\net9.0\ref\CineMinds.dll

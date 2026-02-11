@@ -1,0 +1,13 @@
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\bin\Debug\net9.0\VacationTUI.Domain.deps.json
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\bin\Debug\net9.0\VacationTUI.Domain.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\bin\Debug\net9.0\VacationTUI.Domain.pdb
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.csproj.AssemblyReference.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.AssemblyInfoInputs.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.AssemblyInfo.cs
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.csproj.CoreCompileInputs.cache
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.sourcelink.json
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\refint\VacationTUI.Domain.dll
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\VacationTUI.Domain.pdb
+Z:\GitHub2de\Full-Stack-Development\VacationTUI\VacationTUI.Domain\obj\Debug\net9.0\ref\VacationTUI.Domain.dll

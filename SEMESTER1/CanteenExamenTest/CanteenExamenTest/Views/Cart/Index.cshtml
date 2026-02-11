@@ -1,0 +1,68 @@
+﻿@model CanteenExamenTest.ViewModels.CartItemVM
+
+@{
+    ViewData["Title"] = "Winkelwagen";
+}
+
+<h1>Winkelwagen</h1>
+
+@if (!Model.Items.Any())
+{
+    <p>Je winkelwagen is leeg.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Prijs</th>
+                <th>Aantal</th>
+                <th>Subtotaal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Product.Price.ToString("0.00")</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Quantity* item.Product.Price).ToString("0.00")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4>Totaal: € @Model.TotalAmount.ToString("0.00")</h4>
+
+    <form asp-action="Clear" method="post">
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-danger">
+            Winkelwagen leegmaken
+        </button>
+    </form>
+
+    <form asp-controller="Order"
+          asp-action="Checkout"
+          method="post"
+          class="mt-4">
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label class="form-label">Naam</label>
+            <input type="text"
+                   name="customerName"
+                   class="form-control"
+                   required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">
+            Bestelling plaatsen
+        </button>
+    </form>
+}
+
+<a asp-controller="Product" asp-action="Index" class="btn btn-secondary mt-3">
+    Verder winkelen
+</a>

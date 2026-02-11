@@ -1,0 +1,45 @@
+﻿@model IEnumerable<TestExamen2MetShoppingCart.ViewModels.ProductVM>
+
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<h1>Productcatalogus</h1>
+
+<table id="productsTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Naam</th>
+            <th>Prijs</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Name</td>
+            <td>@p.Price.ToString("0.00")</td>
+            <td>
+                <form asp-controller="Cart" asp-action="Add" method="post" class="d-inline">
+                    <input type="hidden" name="productId" value="@p.ProductId" />
+                    <button type="submit" class="btn btn-primary btn-sm">Toevoegen</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section Scripts {
+    <!-- Als je LibMan gebruikte: pas paden aan naar jouw lib-folder -->
+    <link rel="stylesheet" href="~/lib/datatables/datatables.min.css" />
+    <script src="~/lib/datatables/datatables.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#productsTable').DataTable();
+        });
+    </script>
+}

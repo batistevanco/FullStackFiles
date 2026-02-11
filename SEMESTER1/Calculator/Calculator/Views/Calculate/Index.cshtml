@@ -1,0 +1,52 @@
+﻿@using Calculator.ViewModels
+@model Calculator.ViewModels.CalcVM
+
+@{
+    ViewData["Title"] = "Index";
+    var totalMessage = "";
+    if (Model != null)
+    {
+        var getal1 = Model.Getal1;
+        var getal2 = Model.Getal2;
+        var resultaat = getal1 + getal2;
+        totalMessage = $"The sum of {getal1} and {getal2} is {resultaat}.";
+    }
+   
+    
+}
+
+<h1>Index</h1>
+
+<h4>CalcVM</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Getal1" class="control-label"></label>
+                <input asp-for="Getal1" class="form-control" />
+                <span asp-validation-for="Getal1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Getal2" class="control-label"></label>
+                <input asp-for="Getal2" class="form-control" />
+                <span asp-validation-for="Getal2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="Resultaat" class="control-label">Resultaat</label>
+                <span>@totalMessage</span>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

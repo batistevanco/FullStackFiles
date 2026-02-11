@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\bin\Debug\net9.0\BeerShop2.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\bin\Debug\net9.0\BeerShop2.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\bin\Debug\net9.0\BeerShop2.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\bin\Debug\net9.0\BeerShop2.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\refint\BeerShop2.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\BeerShop2.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\BeerShop2\BeerShop2.Domain\obj\Debug\net9.0\ref\BeerShop2.Domain.dll

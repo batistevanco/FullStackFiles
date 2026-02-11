@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\Travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\views\\travel\\indexwithdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\travel\\indexwithdatepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|v:\\travel\\travel.services\\integration\\countryapi\\dto\\countryapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\integration\\countryapi\\dto\\countryapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\viewmodels\\travelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\viewmodels\\travelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|v:\\travel\\travel.services\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\interfaces\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|v:\\travel\\travel.services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9FECC7-A985-4A07-ABA2-D48174FB4F3E}|Travel.Services\\Travel.Services.csproj|solutionrelative:travel.services\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\viewmodels\\countryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|v:\\travel\\travel\\travel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53040FB0-616C-430A-A10F-256896DD871A}|Travel\\Travel.csproj|solutionrelative:travel\\travel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexWithDatePicker.cshtml",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "ToolTip": "V:\\Travel\\Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Travel\\IndexWithDatePicker.cshtml",
+              "ViewState": "AgIAAC0AAAAADwAAAAABwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T08:32:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "V:\\Travel\\Travel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T08:19:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Views\\Travel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Travel\\Index.cshtml",
+              "ToolTip": "V:\\Travel\\Travel\\Views\\Travel\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Travel\\Index.cshtml",
+              "ViewState": "AgIAADgAAABABAAAAIApwEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T09:45:10.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravelVM.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel\\ViewModels\\TravelVM.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewModels\\TravelVM.cs",
+              "ToolTip": "V:\\Travel\\Travel\\ViewModels\\TravelVM.cs",
+              "RelativeToolTip": "Travel\\ViewModels\\TravelVM.cs",
+              "ViewState": "AgIAAAYAAACAppmZmZkCwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:13:40.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "Travel\\Controllers\\TravelController.cs",
+              "ToolTip": "V:\\Travel\\Travel\\Controllers\\TravelController.cs",
+              "RelativeToolTip": "Travel\\Controllers\\TravelController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:09:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Program.cs",
+              "RelativeDocumentMoniker": "Travel\\Program.cs",
+              "ToolTip": "V:\\Travel\\Travel\\Program.cs",
+              "RelativeToolTip": "Travel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:08:58.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TravelService.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel.Services\\TravelService.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\TravelService.cs",
+              "ToolTip": "V:\\Travel\\Travel.Services\\TravelService.cs",
+              "RelativeToolTip": "Travel.Services\\TravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:39:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITravelService.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel.Services\\Interfaces\\ITravelService.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\Interfaces\\ITravelService.cs",
+              "ToolTip": "V:\\Travel\\Travel.Services\\Interfaces\\ITravelService.cs",
+              "RelativeToolTip": "Travel.Services\\Interfaces\\ITravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:36:12.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Views\\Country\\Index.cshtml",
+              "RelativeDocumentMoniker": "Travel\\Views\\Country\\Index.cshtml",
+              "ToolTip": "V:\\Travel\\Travel\\Views\\Country\\Index.cshtml",
+              "RelativeToolTip": "Travel\\Views\\Country\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T08:13:44.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Travel\\Controllers\\CountryController.cs",
+              "ToolTip": "V:\\Travel\\Travel\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Travel\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAABsAAAAAemZmZmYBwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:51:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryVM.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel\\ViewModels\\CountryVM.cs",
+              "RelativeDocumentMoniker": "Travel\\ViewModels\\CountryVM.cs",
+              "ToolTip": "V:\\Travel\\Travel\\ViewModels\\CountryVM.cs",
+              "RelativeToolTip": "Travel\\ViewModels\\CountryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:49:19.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "V:\\Travel\\Travel\\appsettings.json",
+              "RelativeDocumentMoniker": "Travel\\appsettings.json",
+              "ToolTip": "V:\\Travel\\Travel\\appsettings.json",
+              "RelativeToolTip": "Travel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T07:44:50.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryApiDto.cs",
+              "DocumentMoniker": "V:\\Travel\\Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "RelativeDocumentMoniker": "Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "ToolTip": "V:\\Travel\\Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "RelativeToolTip": "Travel.Services\\Integration\\CountryApi\\DTO\\CountryApiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:40:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Travel.csproj",
+              "DocumentMoniker": "V:\\Travel\\Travel\\Travel.csproj",
+              "RelativeDocumentMoniker": "Travel\\Travel.csproj",
+              "ToolTip": "V:\\Travel\\Travel\\Travel.csproj",
+              "RelativeToolTip": "Travel\\Travel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T07:32:07.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

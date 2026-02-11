@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\full Stack Development - oefeningen\\Bundling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|c:\\full stack development - oefeningen\\bundling\\bundling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|solutionrelative:bundling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|c:\\full stack development - oefeningen\\bundling\\bundling\\wwwroot\\js\\demojs\\bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|solutionrelative:bundling\\wwwroot\\js\\demojs\\bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|c:\\full stack development - oefeningen\\bundling\\bundling\\wwwroot\\js\\demojs\\bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|solutionrelative:bundling\\wwwroot\\js\\demojs\\bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|c:\\full stack development - oefeningen\\bundling\\bundling\\wwwroot\\js\\demojs\\code.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97070467-FB54-4175-B68C-BB7C057EEA90}|Bundling\\Bundling.csproj|solutionrelative:bundling\\wwwroot\\js\\demojs\\code.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bundle.min.js",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\bundle.min.js",
+              "RelativeDocumentMoniker": "Bundling\\wwwroot\\js\\DemoJS\\bundle.min.js",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\bundle.min.js",
+              "RelativeToolTip": "Bundling\\wwwroot\\js\\DemoJS\\bundle.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-20T07:09:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bundle.js",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\bundle.js",
+              "RelativeDocumentMoniker": "Bundling\\wwwroot\\js\\DemoJS\\bundle.js",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\bundle.js",
+              "RelativeToolTip": "Bundling\\wwwroot\\js\\DemoJS\\bundle.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-20T07:09:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "code.js",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\code.js",
+              "RelativeDocumentMoniker": "Bundling\\wwwroot\\js\\DemoJS\\code.js",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\wwwroot\\js\\DemoJS\\code.js",
+              "RelativeToolTip": "Bundling\\wwwroot\\js\\DemoJS\\code.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-20T06:59:58.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bundling\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\full Stack Development - oefeningen\\Bundling\\Bundling\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Bundling\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T06:58:55.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

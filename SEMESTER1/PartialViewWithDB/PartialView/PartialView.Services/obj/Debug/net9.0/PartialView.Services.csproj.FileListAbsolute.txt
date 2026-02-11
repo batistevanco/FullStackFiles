@@ -1,0 +1,53 @@
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.deps.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.AssemblyReference.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.GeneratedMSBuildEditorConfig.editorconfig
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfoInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfo.cs
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.CoreCompileInputs.cache
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.sourcelink.json
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialV.0CF0E7F8.Up2Date
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\refint\PartialView.Services.dll
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.pdb
+Z:\GitHub2de\Full-Stack-Development\PartialView\PartialView.Services\obj\Debug\net9.0\ref\PartialView.Services.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.deps.json
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.AssemblyReference.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfoInputs.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfo.cs
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.CoreCompileInputs.cache
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialV.0CF0E7F8.Up2Date
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\refint\PartialView.Services.dll
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.pdb
+C:\full Stack Development - oefeningen\PartialView\PartialView.Services\obj\Debug\net9.0\ref\PartialView.Services.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.deps.json
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Services.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Domein.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\bin\Debug\net9.0\PartialView.Repositories.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialV.0CF0E7F8.Up2Date
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\refint\PartialView.Services.dll
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\PartialView.Services.pdb
+Y:\GitHub2de\Full-Stack-Development\PartialViewWithDB\PartialView\PartialView.Services\obj\Debug\net9.0\ref\PartialView.Services.dll

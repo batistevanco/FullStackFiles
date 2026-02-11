@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\bin\Debug\net9.0\ShoppingCart.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\bin\Debug\net9.0\ShoppingCart.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\bin\Debug\net9.0\ShoppingCart.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\bin\Debug\net9.0\ShoppingCart.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\refint\ShoppingCart.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ShoppingCart.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\TestExamen2MetShoppingCart\ShoppingCart.Domain\obj\Debug\net9.0\ref\ShoppingCart.Domain.dll

@@ -1,0 +1,38 @@
+﻿@model MusicStore.ViewModels.StoreIndexVM
+@using MusicStore.ViewModels
+@{
+Layout = null;
+
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<meta name="viewport" content="width=device‐width" />
+<title>Index</title>
+<h2>Browse Genres</h2>
+
+<p>Select from @Model.NumberOfGenres genres</p>
+    <ul>
+        @foreach (var genreName in Model.Genres)
+        {
+            <li>
+                <a asp‐controller="Store"
+                   asp‐action="Browse"
+                   asp‐route‐genre="@genreName">
+                    @genreName
+                </a>
+                @if (ViewBag.Starred.Contains(genreName))
+                {
+                    <img src="~/images/starred.png" alt="stars" />
+                }
+            </li>
+        }
+    </ul>
+    <h5><img src="~/images/starred.png" alt="Starred element" />Starred genres 20% Off!</h5>
+    
+
+</body>
+</html>

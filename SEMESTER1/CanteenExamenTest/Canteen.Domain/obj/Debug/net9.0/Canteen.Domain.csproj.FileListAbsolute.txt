@@ -1,0 +1,15 @@
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\bin\Debug\net9.0\Canteen.Domain.deps.json
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\bin\Debug\net9.0\Canteen.Domain.runtimeconfig.json
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\bin\Debug\net9.0\Canteen.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\bin\Debug\net9.0\Canteen.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.csproj.AssemblyReference.cache
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.AssemblyInfoInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.AssemblyInfo.cs
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.sourcelink.json
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\refint\Canteen.Domain.dll
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.pdb
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\Canteen.Domain.genruntimeconfig.cache
+Y:\GitHub2de\Full-Stack-Development\CanteenExamenTest\Canteen.Domain\obj\Debug\net9.0\ref\Canteen.Domain.dll
