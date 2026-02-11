@@ -1,0 +1,70 @@
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.deps.json
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.runtimeconfig.json
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.AssemblyReference.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfoInputs.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfo.cs
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.3285003E.Up2Date
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\refint\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.genruntimeconfig.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\ref\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.deps.json
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.runtimeconfig.json
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.AssemblyReference.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfoInputs.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfo.cs
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.3285003E.Up2Date
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\refint\Beershop.Repositories.dll
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.genruntimeconfig.cache
+C:\Users\u0082036\OneDrive - Hogeschool VIVES\full stack Development\MVC\2026\Oefeningen\BeerschopNET9-Identity - beginsituatie\Beershop.Repositories\obj\Debug\net9.0\ref\Beershop.Repositories.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.deps.json
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.runtimeconfig.json
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.pdb
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.AssemblyReference.cache
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfoInputs.cache
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfo.cs
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.3285003E.Up2Date
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\refint\Beershop.Repositories.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.pdb
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.genruntimeconfig.cache
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\ref\Beershop.Repositories.dll
+C:\Users\mijnk\Documents\Personal Documents\School\2025-2026\Full stack dev\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.sourcelink.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.deps.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.runtimeconfig.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Repositories.pdb
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\bin\Debug\net9.0\Beershop.Domain.pdb
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.AssemblyReference.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfoInputs.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.AssemblyInfo.cs
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.sourcelink.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.3285003E.Up2Date
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\refint\Beershop.Repositories.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.pdb
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\Beershop.Repositories.genruntimeconfig.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Repositories\obj\Debug\net9.0\ref\Beershop.Repositories.dll

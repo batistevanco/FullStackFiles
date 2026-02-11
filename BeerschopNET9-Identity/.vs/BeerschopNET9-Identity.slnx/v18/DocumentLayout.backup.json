@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\migrations\\20260211104100_addextrafieldstousername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\migrations\\20260211104100_addextrafieldstousername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\migrations\\20260211111619_addextrafieldstousername2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\migrations\\20260211111619_addextrafieldstousername2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\migrations\\20260211112647_addextrafieldstouser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\migrations\\20260211112647_addextrafieldstouser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\migrations\\20260211100920_addextrafieldstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\migrations\\20260211100920_addextrafieldstouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|solutionrelative:beershop.services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A01EEA8-9FBC-0020-C737-02D5C5BDFB19}|Beershop.Repositories\\Beershop.Repositories.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.repositories\\beerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A01EEA8-9FBC-0020-C737-02D5C5BDFB19}|Beershop.Repositories\\Beershop.Repositories.csproj|solutionrelative:beershop.repositories\\beerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.domain\\entities\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|solutionrelative:beershop.domain\\entities\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.domain\\data\\beerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|solutionrelative:beershop.domain\\data\\beerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.domain\\entities\\variety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|solutionrelative:beershop.domain\\entities\\variety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.domain\\entities\\brewery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9FD7B2-4A29-9C47-C50C-4052307425EF}|Beershop.Domain\\Beershop.Domain.csproj|solutionrelative:beershop.domain\\entities\\brewery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.services\\interfaces\\iservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|solutionrelative:beershop.services\\interfaces\\iservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\viewmodels\\beervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\viewmodels\\beervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A01EEA8-9FBC-0020-C737-02D5C5BDFB19}|Beershop.Repositories\\Beershop.Repositories.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A01EEA8-9FBC-0020-C737-02D5C5BDFB19}|Beershop.Repositories\\Beershop.Repositories.csproj|solutionrelative:beershop.repositories\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beershop.services\\beershop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AA61BBB-8F31-B908-C22B-462E1F8C83D7}|Beershop.Services\\Beershop.Services.csproj|solutionrelative:beershop.services\\beershop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|y:\\github\\full-stack-development-class\\beerschopnet9-identity\\beerschopnet9-identity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260211112647_AddExtraFieldsToUser2.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211112647_AddExtraFieldsToUser2.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\Migrations\\20260211112647_AddExtraFieldsToUser2.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211112647_AddExtraFieldsToUser2.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\Migrations\\20260211112647_AddExtraFieldsToUser2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:26:47.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260211111619_AddExtraFieldsToUserName2.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211111619_AddExtraFieldsToUserName2.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\Migrations\\20260211111619_AddExtraFieldsToUserName2.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211111619_AddExtraFieldsToUserName2.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\Migrations\\20260211111619_AddExtraFieldsToUserName2.cs",
+              "ViewState": "AgIAAAkAAACAnpmZmZkNwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:16:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAApwHAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:55:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAADAmZmZmVkqwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:34:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260211104100_AddExtraFieldsToUserName.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211104100_AddExtraFieldsToUserName.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\Migrations\\20260211104100_AddExtraFieldsToUserName.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211104100_AddExtraFieldsToUserName.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\Migrations\\20260211104100_AddExtraFieldsToUserName.cs",
+              "ViewState": "AgIAAAoAAACYmZmZmRk4wBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:41:00.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADgAAACAAAAAAAARwCAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T10:28:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAFoAAABymZmZmXk/wGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:28:11.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T10:33:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T10:55:53.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260211100920_AddExtraFieldsToUser.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211100920_AddExtraFieldsToUser.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\Migrations\\20260211100920_AddExtraFieldsToUser.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\20260211100920_AddExtraFieldsToUser.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\Migrations\\20260211100920_AddExtraFieldsToUser.cs",
+              "ViewState": "AgIAAAsAAACAmZmZmZkMwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:18:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:15:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T16:01:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T15:39:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:57:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "Beershop.Services\\BeerService.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
+              "RelativeToolTip": "Beershop.Services\\BeerService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:36:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BeerDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
+              "RelativeDocumentMoniker": "Beershop.Repositories\\BeerDAO.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
+              "RelativeToolTip": "Beershop.Repositories\\BeerDAO.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA0wBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:35:39.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Program.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Program.cs",
+              "ViewState": "AgIAAAUAAACAAgAAAAARwBUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:33:45.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Beer.cs",
+              "RelativeDocumentMoniker": "Beershop.Domain\\Entities\\Beer.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Beer.cs",
+              "RelativeToolTip": "Beershop.Domain\\Entities\\Beer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:34:58.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:27:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BeerDbContext.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Data\\BeerDbContext.cs",
+              "RelativeDocumentMoniker": "Beershop.Domain\\Data\\BeerDbContext.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Data\\BeerDbContext.cs",
+              "RelativeToolTip": "Beershop.Domain\\Data\\BeerDbContext.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:34:36.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\appsettings.json",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
+              "RelativeToolTip": "BeerschopNET9-Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T15:26:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Variety.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Variety.cs",
+              "RelativeDocumentMoniker": "Beershop.Domain\\Entities\\Variety.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Variety.cs",
+              "RelativeToolTip": "Beershop.Domain\\Entities\\Variety.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:45:54.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Brewery.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Brewery.cs",
+              "RelativeDocumentMoniker": "Beershop.Domain\\Entities\\Brewery.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Entities\\Brewery.cs",
+              "RelativeToolTip": "Beershop.Domain\\Entities\\Brewery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:45:48.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IServive.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
+              "RelativeDocumentMoniker": "Beershop.Services\\Interfaces\\IServive.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
+              "RelativeToolTip": "Beershop.Services\\Interfaces\\IServive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:36:16.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BeerVM.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\BeerVM.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\ViewModels\\BeerVM.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\BeerVM.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\ViewModels\\BeerVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:37:59.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:43:23.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Beershop.Services.csproj",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\Beershop.Services.csproj",
+              "RelativeDocumentMoniker": "Beershop.Services\\Beershop.Services.csproj",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Services\\Beershop.Services.csproj",
+              "RelativeToolTip": "Beershop.Services\\Beershop.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T15:43:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\HomeController.cs",
+              "ToolTip": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:27:00.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

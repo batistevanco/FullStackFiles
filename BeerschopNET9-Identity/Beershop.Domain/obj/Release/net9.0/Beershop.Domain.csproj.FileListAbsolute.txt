@@ -1,0 +1,15 @@
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\bin\Release\net9.0\Beershop.Domain.deps.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\bin\Release\net9.0\Beershop.Domain.runtimeconfig.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\bin\Release\net9.0\Beershop.Domain.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\bin\Release\net9.0\Beershop.Domain.pdb
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.csproj.AssemblyReference.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.AssemblyInfoInputs.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.AssemblyInfo.cs
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.csproj.CoreCompileInputs.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.sourcelink.json
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\refint\Beershop.Domain.dll
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.pdb
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\Beershop.Domain.genruntimeconfig.cache
+Y:\GitHub\Full-Stack-Development-Class\BeerschopNET9-Identity\Beershop.Domain\obj\Release\net9.0\ref\Beershop.Domain.dll

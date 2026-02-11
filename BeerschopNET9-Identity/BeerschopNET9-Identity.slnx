@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BeerschopNET9-Identity/BeerschopNET9-Identity.csproj" />
+  <Project Path="Beershop.Domain/Beershop.Domain.csproj" />
+  <Project Path="Beershop.Repositories/Beershop.Repositories.csproj" />
+  <Project Path="Beershop.Services/Beershop.Services.csproj" />
+</Solution>
