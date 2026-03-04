@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beershop.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f97ac0d4f4e830d217aa973cfb1bbd905b3d6fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfecf8306bb4d0c7d1b6378cc9eaa9af82600f7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beershop.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beershop.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

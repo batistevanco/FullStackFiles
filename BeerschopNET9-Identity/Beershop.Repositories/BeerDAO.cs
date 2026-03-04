@@ -1,76 +1,97 @@
-﻿
-
-
-
-
-using BeerShop.Domain.Data;
+﻿using BeerShop.Domain.Data;
 using BeerShop.Domain.Entities;
 using BeerShop.Repositories.Interfaces;
 
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-
 
 namespace Beershop.Repositories
 {
     public class BeerDAO : IDAO<Beer>
     {
-
-    
-
-        private readonly BeerDbContext dbContext; // database context
-
+        private readonly BeerDbContext dbContext;
 
         public BeerDAO(BeerDbContext context)
         {
             dbContext = context;
         }
 
-        public Task AddAsync(Beer entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task DeleteAsync(Beer entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<Beer?> FindByIdAsync(int Id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public async Task<IEnumerable<Beer>?> GetAllAsync()
+        // CREATE
+        public async Task AddAsync(Beer entity)
         {
             try
-            {// select * from Bieren
+            {
+                await dbContext.Beers.AddAsync(entity);
+                await dbContext.SaveChangesAsync();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error in DAO - AddAsync");
+                throw;
+            }
+        }
+
+        // DELETE
+        public async Task DeleteAsync(Beer entity)
+        {
+            try
+            {
+                dbContext.Beers.Remove(entity);
+                await dbContext.SaveChangesAsync();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error in DAO - DeleteAsync");
+                throw;
+            }
+        }
+
+        // READ ONE
+        public async Task<Beer?> FindByIdAsync(int id)
+        {
+            try
+            {
                 return await dbContext.Beers
                     .Include(b => b.BrouwernrNavigation)
                     .Include(b => b.SoortnrNavigation)
-                    .ToListAsync(); // volgende Namespaces toevoegen bovenaan using System.Linq; using Microsoft.EntityFrameworkCore;
+                    .FirstOrDefaultAsync(b => b.Biernr == id);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine("error in DAO");
+                Console.WriteLine("Error in DAO - FindByIdAsync");
                 throw;
-
             }
         }
 
-        public Task UpdateAsync(Beer entity)
+        // READ ALL
+        public async Task<IEnumerable<Beer>?> GetAllAsync()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await dbContext.Beers
+                    .Include(b => b.BrouwernrNavigation)
+                    .Include(b => b.SoortnrNavigation)
+                    .ToListAsync();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error in DAO - GetAllAsync");
+                throw;
+            }
+        }
+
+        // UPDATE
+        public async Task UpdateAsync(Beer entity)
+        {
+            try
+            {
+                dbContext.Beers.Update(entity);
+                await dbContext.SaveChangesAsync();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Error in DAO - UpdateAsync");
+                throw;
+            }
         }
     }
 }
-
-
-
-

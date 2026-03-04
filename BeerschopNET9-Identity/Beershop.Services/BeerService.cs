@@ -1,52 +1,46 @@
-﻿
-
-
-using BeerShop.Domain.Entities;
+﻿using BeerShop.Domain.Entities;
 using BeerShop.Repositories.Interfaces;
 using BeerShop.Services.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
 
 namespace Beershop.Services
 {
-    public class BeerService : IService<Beer>  // inherit IService
+    public class BeerService : IService<Beer>
     {
-   
         private IDAO<Beer> _beerDAO;
 
-        public BeerService(IDAO<Beer> beerDAO) // DI
+        public BeerService(IDAO<Beer> beerDAO)
         {
             _beerDAO = beerDAO;
         }
 
-        public Task AddAsync(Beer entity)
+        // CREATE
+        public async Task AddAsync(Beer entity)
         {
-            throw new NotImplementedException();
+            await _beerDAO.AddAsync(entity);
         }
 
-        public Task DeleteAsync(Beer entity)
+        // DELETE
+        public async Task DeleteAsync(Beer entity)
         {
-            throw new NotImplementedException();
+            await _beerDAO.DeleteAsync(entity);
         }
 
-        public Task<Beer?> FindByIdAsync(int Id)
+        // READ ONE
+        public async Task<Beer?> FindByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _beerDAO.FindByIdAsync(id);
         }
 
+        // READ ALL
         public async Task<IEnumerable<Beer>?> GetAllAsync()
         {
             return await _beerDAO.GetAllAsync();
         }
 
-        public Task UpdateAsync(Beer entity)
+        // UPDATE
+        public async Task UpdateAsync(Beer entity)
         {
-            throw new NotImplementedException();
+            await _beerDAO.UpdateAsync(entity);
         }
     }
 }
