@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uoEqZn1W+xQ=",
+  "dgSpecHash": "ma+gLFa+xEs=",
   "success": true,
-  "projectFilePath": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj",
+  "projectFilePath": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

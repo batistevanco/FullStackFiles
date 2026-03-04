@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZ+E5qPSMHo=",
+  "dgSpecHash": "LUiqQfp5Jd8=",
   "success": true,
-  "projectFilePath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
+  "projectFilePath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

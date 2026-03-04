@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vancoillie_batiste.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718097573562157111e4e64d994a3286e437d259")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f97ac0d4f4e830d217aa973cfb1bbd905b3d6fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("vancoillie_batiste.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vancoillie_batiste.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

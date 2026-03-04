@@ -5008,11 +5008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Beershop.Domain.csproj",
+      "projectUniqueName": "X:\\BeerschopNET9-Identity\\Beershop.Domain\\Beershop.Domain.csproj",
       "projectName": "Beershop.Domain",
-      "projectPath": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\Beershop.Domain.csproj",
+      "projectPath": "X:\\BeerschopNET9-Identity\\Beershop.Domain\\Beershop.Domain.csproj",
       "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-      "outputPath": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Domain\\obj\\",
+      "outputPath": "X:\\BeerschopNET9-Identity\\Beershop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

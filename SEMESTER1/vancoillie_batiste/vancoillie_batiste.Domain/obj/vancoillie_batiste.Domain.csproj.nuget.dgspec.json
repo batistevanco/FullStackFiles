@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {}
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {}
   },
   "projects": {
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
+        "projectUniqueName": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
         "projectName": "vancoillie_batiste.Domain",
-        "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
+        "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\obj\\",
+        "outputPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

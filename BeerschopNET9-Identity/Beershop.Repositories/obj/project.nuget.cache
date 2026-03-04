@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t60RkIQDYBA=",
+  "dgSpecHash": "EOIM7Uc+DKM=",
   "success": true,
-  "projectFilePath": "Y:\\GitHub\\Full-Stack-Development-Class\\BeerschopNET9-Identity\\Beershop.Repositories\\Beershop.Repositories.csproj",
+  "projectFilePath": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\Beershop.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

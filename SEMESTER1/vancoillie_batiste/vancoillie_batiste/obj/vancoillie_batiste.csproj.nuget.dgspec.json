@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj": {}
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj": {}
   },
   "projects": {
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
+        "projectUniqueName": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
         "projectName": "vancoillie_batiste.Domain",
-        "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
+        "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\obj\\",
+        "outputPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,14 +87,14 @@
         }
       }
     },
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj": {
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+        "projectUniqueName": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
         "projectName": "vancoillie_batiste.Repository",
-        "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
+        "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\obj\\",
+        "outputPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
-                "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
+              "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
+                "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
               }
             }
           }
@@ -174,14 +174,14 @@
         }
       }
     },
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj": {
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+        "projectUniqueName": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
         "projectName": "vancoillie_batiste.Services",
-        "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
+        "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\obj\\",
+        "outputPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,11 +202,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
-                "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
+              "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
+                "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
               },
-              "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj": {
-                "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj"
+              "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj": {
+                "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Repository\\vancoillie_batiste.Repository.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj": {
+    "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
+        "projectUniqueName": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
         "projectName": "vancoillie_batiste",
-        "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
+        "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\vancoillie_batiste.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste\\obj\\",
+        "outputPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,11 +274,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
-                "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
+              "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj": {
+                "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Domain\\vancoillie_batiste.Domain.csproj"
               },
-              "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj": {
-                "projectPath": "Y:\\GitHub2de\\Full-Stack-Development\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj"
+              "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj": {
+                "projectPath": "X:\\SEMESTER1\\vancoillie_batiste\\vancoillie_batiste.Services\\vancoillie_batiste.Services.csproj"
               }
             }
           }
