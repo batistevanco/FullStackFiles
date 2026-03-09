@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeerShop2.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b41fce2f063bcc210ef35c09bfff1f685005a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004a528bae9a03b7d9302e68b57ef11d47ef718e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeerShop2.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeerShop2.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Al85A/wNqmc=",
+  "dgSpecHash": "dEfwp0NZ7GA=",
   "success": true,
-  "projectFilePath": "Y:\\GitHub2de\\Full-Stack-Development\\BeerShop2\\BeerShop2.Repositories\\BeerShop2.Repositories.csproj",
+  "projectFilePath": "X:\\SEMESTER1\\BeerShop2\\BeerShop2.Repositories\\BeerShop2.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
