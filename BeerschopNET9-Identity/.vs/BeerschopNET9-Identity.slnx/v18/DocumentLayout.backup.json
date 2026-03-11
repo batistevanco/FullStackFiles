@@ -114,8 +114,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T11:07:38.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T11:07:38.678Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
               "ViewState": "AgIAAFwAAABAZmZmZmYQwHUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:39:47.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:39:47.609Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:22:42.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:22:42.78Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAgwF4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:20:52.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:20:52.618Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
               "ViewState": "AgIAAC8AAADAbmZmZiYgwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:14:40.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:14:40.498Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAwwEUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:13:30.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:13:30.809Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T14:27:56.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T14:27:56.357Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "Beershop.Services\\Interfaces\\IServive.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:57.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:41:57.454Z"
             },
             {
               "$type": "Document",
@@ -231,8 +223,7 @@
               "RelativeToolTip": "Beershop.Repositories\\BeerDAO.cs",
               "ViewState": "AgIAACwAAABAZmZmZqYrwEAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:09.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:41:09.927Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "Beershop.Repositories\\Interfaces\\IDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:08.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:41:08.191Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:55.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:03:55.201Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "Beershop.Services\\BeerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:40:32.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:40:32.52Z"
             },
             {
               "$type": "Document",
@@ -283,8 +271,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:53.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:03:53.2Z"
             },
             {
               "$type": "Document",
@@ -296,8 +283,7 @@
               "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:44.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:03:44.024Z"
             }
           ]
         }

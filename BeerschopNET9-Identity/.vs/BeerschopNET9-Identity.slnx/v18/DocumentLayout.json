@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "X:\\BeerschopNET9-Identity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\views\\beer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|x:\\beerschopnet9-identity\\beerschopnet9-identity\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A407CBB-2643-E049-C4A5-B3048100C357}|BeerschopNET9-Identity\\BeerschopNET9-Identity.csproj|solutionrelative:beerschopnet9-identity\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -70,193 +86,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index1.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T11:07:38.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAAFwAAABAZmZmZmYQwHUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:39:47.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingCartVM.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
-              "RelativeToolTip": "BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:22:42.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwF4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:20:52.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
-              "ViewState": "AgIAAC8AAADAbmZmZiYgwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:14:40.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BeerController.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwEUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:13:30.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\appsettings.json",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
-              "RelativeToolTip": "BeerschopNET9-Identity\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-04T09:09:39.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Program.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T14:27:56.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IServive.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
-              "RelativeDocumentMoniker": "Beershop.Services\\Interfaces\\IServive.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
-              "RelativeToolTip": "Beershop.Services\\Interfaces\\IServive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:57.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BeerDAO.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
-              "RelativeDocumentMoniker": "Beershop.Repositories\\BeerDAO.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
-              "RelativeToolTip": "Beershop.Repositories\\BeerDAO.cs",
-              "ViewState": "AgIAACwAAABAZmZmZqYrwEAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:09.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDAO.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
-              "RelativeDocumentMoniker": "Beershop.Repositories\\Interfaces\\IDAO.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
-              "RelativeToolTip": "Beershop.Repositories\\Interfaces\\IDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:41:08.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ForgotPassword.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:55.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BeerService.cs",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
-              "RelativeDocumentMoniker": "Beershop.Services\\BeerService.cs",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
-              "RelativeToolTip": "Beershop.Services\\BeerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:40:32.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConfirmEmail.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:53.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-04T09:03:44.024Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -288,6 +119,241 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAwAAACACgAAAIApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:04:56.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T11:04:53.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:00:53.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:03:55.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T10:57:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAFwAAABAZmZmZmYQwHUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:39:47.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Program.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Program.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Program.cs",
+              "ViewState": "AgIAAAUAAAAARTMzMzMbwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:27:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:22:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\appsettings.json",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\appsettings.json",
+              "RelativeToolTip": "BeerschopNET9-Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T09:09:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\ShoppingCart\\Index1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T11:07:38.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:20:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Views\\Beer\\Index.cshtml",
+              "ViewState": "AgIAAC8AAADAbmZmZiYgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:14:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:13:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServive.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
+              "RelativeDocumentMoniker": "Beershop.Services\\Interfaces\\IServive.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Services\\Interfaces\\IServive.cs",
+              "RelativeToolTip": "Beershop.Services\\Interfaces\\IServive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:41:57.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeerDAO.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
+              "RelativeDocumentMoniker": "Beershop.Repositories\\BeerDAO.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\BeerDAO.cs",
+              "RelativeToolTip": "Beershop.Repositories\\BeerDAO.cs",
+              "ViewState": "AgIAACwAAABAZmZmZqYrwEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:41:09.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeDocumentMoniker": "Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "RelativeToolTip": "Beershop.Repositories\\Interfaces\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:41:08.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BeerService.cs",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
+              "RelativeDocumentMoniker": "Beershop.Services\\BeerService.cs",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\Beershop.Services\\BeerService.cs",
+              "RelativeToolTip": "Beershop.Services\\BeerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:40:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:03:53.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "X:\\BeerschopNET9-Identity\\BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BeerschopNET9-Identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:03:44.024Z"
             }
           ]
         }
